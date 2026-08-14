@@ -376,7 +376,7 @@
             "last_commit": "2021-06-06T12:09:47Z",
             "owner": "phillipi",
             "repo": "pix2pix",
-            "stars": 10654
+            "stars": 10653
           }
         },
         {
@@ -446,7 +446,7 @@
             "last_commit": "2018-01-30T16:29:57Z",
             "owner": "paarthneekhara",
             "repo": "text-to-image",
-            "stars": 2164
+            "stars": 2163
           }
         },
         {
@@ -678,7 +678,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:31:18.904Z",
+    "last_updated": "2026-08-14T04:10:33.432Z",
     "original_repository": "nightrome/really-awesome-gan",
     "original_repository_sha": "19b5b1af1a7c045e3f2ccc9e914fdfc326318af8",
     "enhanced_repository": "enhansome/really-enhansome-gan",

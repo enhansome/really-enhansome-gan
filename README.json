@@ -286,7 +286,7 @@
             "last_commit": "2019-05-08T17:50:59Z",
             "owner": "Newmu",
             "repo": "dcgan_code",
-            "stars": 3529
+            "stars": 3527
           }
         },
         {
@@ -376,7 +376,7 @@
             "last_commit": "2021-06-06T12:09:47Z",
             "owner": "phillipi",
             "repo": "pix2pix",
-            "stars": 10653
+            "stars": 10654
           }
         },
         {
@@ -678,7 +678,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T03:01:06.324Z",
+    "last_updated": "2026-08-18T02:56:51.551Z",
     "original_repository": "nightrome/really-awesome-gan",
     "original_repository_sha": "19b5b1af1a7c045e3f2ccc9e914fdfc326318af8",
     "enhanced_repository": "enhansome/really-enhansome-gan",

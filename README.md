@@ -59,13 +59,13 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 # Code
 
 * Generative Models: Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,494 | 🐛 24 | 🌐 Python | 📅 2024-03-24
-* Cleverhans: A library for benchmarking vulnerability to adversarial examples [\[Code\]](https://github.com/openai/cleverhans) ⭐ 6,451 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2024-04-10 [\[Blog\]](http://cleverhans.io/)
-* Reproduction of the GANs paper (MNIST) in 100 lines of PyTorch code  [\[Blog\]](https://papers-100-lines.medium.com/generative-adversarial-networks-in-100-lines-of-code-516f09d1790a) [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Generative_Adversarial_Networks) ⭐ 2,857 | 🐛 0 | 🌐 Python | 📅 2026-08-17
-* Reproduction of results from the paper *Conditional Generative Adversarial Nets* in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Conditional_Generative_Adversarial_Nets) ⭐ 2,857 | 🐛 0 | 🌐 Python | 📅 2026-08-17
-* Reproduction of results from the paper *Improved Techniques for Training GANs* in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Improved_Techniques_for_Training_GANs) ⭐ 2,857 | 🐛 0 | 🌐 Python | 📅 2026-08-17
-* Reproduction of results from the *LSGAN* paper in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Least_Squares_Generative_Adversarial_Networks) ⭐ 2,857 | 🐛 0 | 🌐 Python | 📅 2026-08-17
-* Reproduction of results from the *WGAN* paper in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Wasserstein_GAN) ⭐ 2,857 | 🐛 0 | 🌐 Python | 📅 2026-08-17
-* Reproduction of results from the *pix2pix* paper in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Image_to_Image_Translation_with_Conditional_Adversarial_Nets) ⭐ 2,857 | 🐛 0 | 🌐 Python | 📅 2026-08-17
+* Cleverhans: A library for benchmarking vulnerability to adversarial examples [\[Code\]](https://github.com/openai/cleverhans) ⭐ 6,449 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2024-04-10 [\[Blog\]](http://cleverhans.io/)
+* Reproduction of the GANs paper (MNIST) in 100 lines of PyTorch code  [\[Blog\]](https://papers-100-lines.medium.com/generative-adversarial-networks-in-100-lines-of-code-516f09d1790a) [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Generative_Adversarial_Networks) ⭐ 2,858 | 🐛 0 | 🌐 Python | 📅 2026-08-17
+* Reproduction of results from the paper *Conditional Generative Adversarial Nets* in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Conditional_Generative_Adversarial_Nets) ⭐ 2,858 | 🐛 0 | 🌐 Python | 📅 2026-08-17
+* Reproduction of results from the paper *Improved Techniques for Training GANs* in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Improved_Techniques_for_Training_GANs) ⭐ 2,858 | 🐛 0 | 🌐 Python | 📅 2026-08-17
+* Reproduction of results from the *LSGAN* paper in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Least_Squares_Generative_Adversarial_Networks) ⭐ 2,858 | 🐛 0 | 🌐 Python | 📅 2026-08-17
+* Reproduction of results from the *WGAN* paper in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Wasserstein_GAN) ⭐ 2,858 | 🐛 0 | 🌐 Python | 📅 2026-08-17
+* Reproduction of results from the *pix2pix* paper in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Image_to_Image_Translation_with_Conditional_Adversarial_Nets) ⭐ 2,858 | 🐛 0 | 🌐 Python | 📅 2026-08-17
 * Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch) [\[Blog\]](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f) [\[Code\]](https://github.com/devnag/pytorch-generative-adversarial-networks) ⭐ 1,539 | 🐛 4 | 🌐 Python | 📅 2021-06-30
 
 # Papers
@@ -93,7 +93,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 * Mode Regularized Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1612.02136) [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,494 | 🐛 24 | 🌐 Python | 📅 2024-03-24
 * Progressive Growing of GANs for Improved Quality, Stability, and Variation [\[arXiv\]](https://arxiv.org/abs/1710.10196) [\[Code\]](https://github.com/tkarras/progressive_growing_of_gans) ⭐ 6,178 | 🐛 11 | 🌐 Python | 📅 2022-02-17
 * Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1406.2661) [\[Code\]](https://github.com/goodfeli/adversarial) ⭐ 4,076 | 🐛 7 | 🌐 Python | 📅 2020-05-25 [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,494 | 🐛 24 | 🌐 Python | 📅 2024-03-24
-* Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1511.06434) [\[Code\]](https://github.com/Newmu/dcgan_code) ⭐ 3,527 | 🐛 31 | 🌐 Python | 📅 2019-05-08 [\[Code\]](https://github.com/pytorch/examples/tree/master/dcgan) ⭐ 24,008 | 🐛 251 | 🌐 Python | 📅 2025-09-01 [\[Code\]](https://github.com/carpedm20/DCGAN-tensorflow) ⭐ 7,177 | 🐛 188 | 🌐 JavaScript | 📅 2021-01-06 [\[Code\]](https://github.com/soumith/dcgan.torch) ⭐ 1,488 | 🐛 41 | 🌐 Lua | 📅 2021-08-02 [\[Code\]](https://github.com/jacobgil/keras-dcgan) ⭐ 977 | 🐛 25 | 🌐 Python | 📅 2017-07-21
+* Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1511.06434) [\[Code\]](https://github.com/Newmu/dcgan_code) ⭐ 3,527 | 🐛 31 | 🌐 Python | 📅 2019-05-08 [\[Code\]](https://github.com/pytorch/examples/tree/master/dcgan) ⭐ 24,009 | 🐛 252 | 🌐 Python | 📅 2025-09-01 [\[Code\]](https://github.com/carpedm20/DCGAN-tensorflow) ⭐ 7,177 | 🐛 188 | 🌐 JavaScript | 📅 2021-01-06 [\[Code\]](https://github.com/soumith/dcgan.torch) ⭐ 1,488 | 🐛 41 | 🌐 Lua | 📅 2021-08-02 [\[Code\]](https://github.com/jacobgil/keras-dcgan) ⭐ 977 | 🐛 25 | 🌐 Python | 📅 2017-07-21
 * Wasserstein GAN [\[arXiv\]](https://arxiv.org/abs/1701.07875) [\[Code\]](https://github.com/martinarjovsky/WassersteinGAN) ⭐ 3,243 | 🐛 28 | 🌐 Python | 📅 2018-12-26 [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,494 | 🐛 24 | 🌐 Python | 📅 2024-03-24
 * Improved Techniques for Training GANs [\[arXiv\]](https://arxiv.org/abs/1606.03498) [\[Code\]](https://github.com/openai/improved-gan) ⚠️ Archived
 * Generative Moment Matching Networks [\[arXiv\]](https://arxiv.org/abs/1502.02761) [\[Code\]](https://github.com/yujiali/gmmn) ⭐ 152 | 🐛 0 | 🌐 Python | 📅 2016-07-11
@@ -369,4 +369,4 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

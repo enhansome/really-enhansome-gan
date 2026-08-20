@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76050275,
             "language": null,
             "last_commit": "2022-01-09T06:29:17Z",
             "owner": "soumith",
             "repo": "ganhacks",
-            "stars": 11617
+            "stars": 11618
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141707724,
             "language": "Jupyter Notebook",
             "last_commit": "2023-03-24T22:56:53Z",
             "owner": "zurutech",
@@ -32,654 +34,849 @@
           }
         }
       ],
-      "title": "Recommendations"
+      "title": "Tutorials & Workshops & Blogs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "Adversarial Feature Learning [arXiv]",
-          "description": "[Code]",
+          "title": "Generative Models: Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow [Code]",
+          "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75829600,
             "language": "Python",
             "last_commit": "2024-03-24T20:38:46Z",
             "owner": "wiseodd",
             "repo": "generative-models",
-            "stars": 7494
+            "stars": 7495
           }
         },
         {
           "node_type": "item",
-          "title": "Adversarially Learned Inference [arXiv]",
-          "description": "[Code]",
+          "title": "Cleverhans: A library for benchmarking vulnerability to adversarial examples [Code]",
+          "description": "[Blog]",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-24T20:38:46Z",
-            "owner": "wiseodd",
-            "repo": "generative-models",
-            "stars": 7494
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BEGAN: Boundary Equilibrium Generative Adversarial Networks [Paper]",
-          "description": "[arXiv] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-24T20:38:46Z",
-            "owner": "wiseodd",
-            "repo": "generative-models",
-            "stars": 7494
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Boundary-Seeking Generative Adversarial Networks [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-24T20:38:46Z",
-            "owner": "wiseodd",
-            "repo": "generative-models",
-            "stars": 7494
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Conditional Generative Adversarial Nets [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-24T20:38:46Z",
-            "owner": "wiseodd",
-            "repo": "generative-models",
-            "stars": 7494
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Coupled Generative Adversarial Networks [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-24T20:38:46Z",
-            "owner": "wiseodd",
-            "repo": "generative-models",
-            "stars": 7494
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Energy-based Generative Adversarial Network [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-24T20:38:46Z",
-            "owner": "wiseodd",
-            "repo": "generative-models",
-            "stars": 7494
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-24T20:38:46Z",
-            "owner": "wiseodd",
-            "repo": "generative-models",
-            "stars": 7494
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Generative Adversarial Parallelization [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-24T20:38:46Z",
-            "owner": "wiseodd",
-            "repo": "generative-models",
-            "stars": 7494
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Improved Training of Wasserstein GANs [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-24T20:38:46Z",
-            "owner": "wiseodd",
-            "repo": "generative-models",
-            "stars": 7494
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-24T20:38:46Z",
-            "owner": "wiseodd",
-            "repo": "generative-models",
-            "stars": 7494
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Learning to Discover Cross-Domain Relations with Generative Adversarial Networks [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-24T20:38:46Z",
-            "owner": "wiseodd",
-            "repo": "generative-models",
-            "stars": 7494
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Least Squares Generative Adversarial Networks [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-24T20:38:46Z",
-            "owner": "wiseodd",
-            "repo": "generative-models",
-            "stars": 7494
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MAGAN: Margin Adaptation for Generative Adversarial Networks [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-24T20:38:46Z",
-            "owner": "wiseodd",
-            "repo": "generative-models",
-            "stars": 7494
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mode Regularized Generative Adversarial Networks [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-24T20:38:46Z",
-            "owner": "wiseodd",
-            "repo": "generative-models",
-            "stars": 7494
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Progressive Growing of GANs for Improved Quality, Stability, and Variation [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-02-17T12:44:14Z",
-            "owner": "tkarras",
-            "repo": "progressive_growing_of_gans",
-            "stars": 6178
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Generative Adversarial Networks [arXiv]",
-          "description": "[Code] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-05-25T03:31:19Z",
-            "owner": "goodfeli",
-            "repo": "adversarial",
-            "stars": 4076
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [arXiv]",
-          "description": "[Code] [Code] [Code] [Code] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-05-08T17:50:59Z",
-            "owner": "Newmu",
-            "repo": "dcgan_code",
-            "stars": 3527
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wasserstein GAN [arXiv]",
-          "description": "[Code] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-12-26T16:46:00Z",
-            "owner": "martinarjovsky",
-            "repo": "WassersteinGAN",
-            "stars": 3243
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Improved Techniques for Training GANs [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2018-11-21T23:56:07Z",
-            "owner": "openai",
-            "repo": "improved-gan",
-            "stars": 2334
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Generative Moment Matching Networks [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-07-11T14:14:51Z",
-            "owner": "yujiali",
-            "repo": "gmmn",
-            "stars": 152
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Enhancing GAN Performance Through Neural Architecture Search and Tensor Decomposition [Paper]",
-          "description": "[PDF] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-03T16:53:59Z",
-            "owner": "PrasannaPulakurthi",
-            "repo": "MMD-AdversarialNAS-GAN",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Enhancing GANs with MMD Neural Architecture Search, PMish Activation Function, and Adaptive Rank Decomposition [Paper]",
-          "description": "[Code] [Website] [YouTube] [Demo]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-23T06:57:49Z",
-            "owner": "PrasannaPulakurthi",
-            "repo": "MMD-PMish-NAS-GAN",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Theory & Machine Learning"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Image-to-Image Translation with Conditional Adversarial Networks [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2021-06-06T12:09:47Z",
-            "owner": "phillipi",
-            "repo": "pix2pix",
-            "stars": 10654
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Conditional Image Synthesis with Auxiliary Classifier GANs [Paper]",
-          "description": "[arXiv] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-24T20:38:46Z",
-            "owner": "wiseodd",
-            "repo": "generative-models",
-            "stars": 7494
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DualGAN: Unsupervised Dual Learning for Image-to-Image Translation [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-24T20:38:46Z",
-            "owner": "wiseodd",
-            "repo": "generative-models",
-            "stars": 7494
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Generative Visual Manipulation on the Natural Image Manifold [Project]",
-          "description": "[Youtube] [Paper] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-08-05T01:05:44Z",
-            "owner": "junyanz",
-            "repo": "iGAN",
-            "stars": 4003
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-02-03T16:03:43Z",
-            "owner": "knazeri",
-            "repo": "edge-connect",
-            "stars": 2620
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Generative Adversarial Text to Image Synthesis [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-01-30T16:29:57Z",
-            "owner": "paarthneekhara",
-            "repo": "text-to-image",
-            "stars": 2163
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Joint Discriminative and Generative Learning for Person Re-identification [Project]",
-          "description": "[Paper] [YouTube] [Bilibili] [Poster] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-07-09T10:24:47Z",
-            "owner": "NVlabs",
-            "repo": "DG-Net",
-            "stars": 1298
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deep multi-scale video prediction beyond mean square error [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-10-23T19:38:17Z",
-            "owner": "dyelax",
-            "repo": "Adversarial_Video_Generation",
-            "stars": 748
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Arbitrary Facial Attribute Editing: Only Change What You Want [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-21T01:36:12Z",
-            "owner": "LynnHo",
-            "repo": "AttGAN-Tensorflow",
-            "stars": 612
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks [arXiv]",
-          "description": "[Code] [Blog]",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Lua",
-            "last_commit": "2017-10-16T15:20:57Z",
-            "owner": "facebookarchive",
-            "repo": "eyescream",
-            "stars": 596
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Unlabeled Samples Generated by GAN Improve the Person Re-identification Baseline in vitro [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Cuda",
-            "last_commit": "2021-06-29T10:21:55Z",
-            "owner": "layumi",
-            "repo": "Person-reID_GAN",
-            "stars": 321
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Improved Adversarial Systems for 3D Object Generation and Reconstruction [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-11-13T15:01:35Z",
-            "owner": "EdwardSmith1884",
-            "repo": "3D-IWGAN",
-            "stars": 207
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-04-26T08:13:26Z",
-            "owner": "Prinsphield",
-            "repo": "GeneGAN",
-            "stars": 143
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Texture Synthesis with Spatial Generative Adversarial Networks [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-09-17T07:40:37Z",
-            "owner": "zalandoresearch",
-            "repo": "spatial_gan",
-            "stars": 112
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-08-05T01:27:53Z",
-            "owner": "woozzu",
-            "repo": "tagan",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Towards Adversarial Retinal Image Synthesis [arXiv]",
-          "description": "[Code] [Demo]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-04-10T14:47:05Z",
-            "owner": "costapt",
-            "repo": "vess2ret",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SingleGAN: Image-to-Image Translation by a Single-Generator Network using Multiple Generative Adversarial Learning [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-01-16T12:52:33Z",
-            "owner": "Xiaoming-Yu",
-            "repo": "SingleGAN",
-            "stars": 83
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Analyzing Perception-Distortion Tradeoff using Enhanced Perceptual Super-resolution Network [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-07-14T08:12:06Z",
-            "owner": "subeeshvasu",
-            "repo": "2018_subeesh_epsr_eccvw",
-            "stars": 79
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Generative Adversarial Graph Convolutional Networks for Human Action Synthesis [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-09-26T11:02:19Z",
-            "owner": "DegardinBruno",
-            "repo": "Kinetic-GAN",
-            "stars": 77
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "A step towards procedural terrain generation with GANs [arXiv]",
-          "description": "[Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
+            "id": 68254498,
             "language": "Jupyter Notebook",
-            "last_commit": "2017-07-18T16:16:12Z",
-            "owner": "christopher-beckham",
-            "repo": "gan-heightmaps",
-            "stars": 76
+            "last_commit": "2024-04-10T13:26:10Z",
+            "owner": "cleverhans-lab",
+            "repo": "cleverhans",
+            "stars": 6449
           }
         },
         {
           "node_type": "item",
-          "title": "Global-to-Local Generative Model for 3D Shapes [Project]",
+          "title": "Reproduction of the GANs paper (MNIST) in 100 lines of PyTorch code [Blog]",
           "description": "[Code]",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 307222796,
             "language": "Python",
-            "last_commit": "2019-09-25T08:24:14Z",
-            "owner": "Hao-HUST",
-            "repo": "G2LGAN",
-            "stars": 30
+            "last_commit": "2026-08-17T19:38:27Z",
+            "owner": "MaximeVandegar",
+            "repo": "Papers-in-100-Lines-of-Code",
+            "stars": 2858
           }
         },
         {
           "node_type": "item",
-          "title": "CompoNet: Learning to Generate the Unseen by Part Synthesis and Composition [arXiv]",
+          "title": "Reproduction of results from the paper Conditional Generative Adversarial Nets in 100 lines of PyTorch code [Code]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 307222796,
+            "language": "Python",
+            "last_commit": "2026-08-17T19:38:27Z",
+            "owner": "MaximeVandegar",
+            "repo": "Papers-in-100-Lines-of-Code",
+            "stars": 2858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reproduction of results from the paper Improved Techniques for Training GANs in 100 lines of PyTorch code [Code]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 307222796,
+            "language": "Python",
+            "last_commit": "2026-08-17T19:38:27Z",
+            "owner": "MaximeVandegar",
+            "repo": "Papers-in-100-Lines-of-Code",
+            "stars": 2858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reproduction of results from the LSGAN paper in 100 lines of PyTorch code [Code]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 307222796,
+            "language": "Python",
+            "last_commit": "2026-08-17T19:38:27Z",
+            "owner": "MaximeVandegar",
+            "repo": "Papers-in-100-Lines-of-Code",
+            "stars": 2858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reproduction of results from the WGAN paper in 100 lines of PyTorch code [Code]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 307222796,
+            "language": "Python",
+            "last_commit": "2026-08-17T19:38:27Z",
+            "owner": "MaximeVandegar",
+            "repo": "Papers-in-100-Lines-of-Code",
+            "stars": 2858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reproduction of results from the pix2pix paper in 100 lines of PyTorch code [Code]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 307222796,
+            "language": "Python",
+            "last_commit": "2026-08-17T19:38:27Z",
+            "owner": "MaximeVandegar",
+            "repo": "Papers-in-100-Lines-of-Code",
+            "stars": 2858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch) [Blog]",
           "description": "[Code]",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81621587,
             "language": "Python",
-            "last_commit": "2019-10-27T11:42:27Z",
-            "owner": "nschor",
-            "repo": "CompoNet",
-            "stars": 28
+            "last_commit": "2021-06-30T21:44:59Z",
+            "owner": "devnag",
+            "repo": "pytorch-generative-adversarial-networks",
+            "stars": 1539
           }
         }
       ],
-      "title": "Applied Vision"
+      "title": "Code"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Adversarial Feature Learning [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75829600,
+                "language": "Python",
+                "last_commit": "2024-03-24T20:38:46Z",
+                "owner": "wiseodd",
+                "repo": "generative-models",
+                "stars": 7495
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Adversarially Learned Inference [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75829600,
+                "language": "Python",
+                "last_commit": "2024-03-24T20:38:46Z",
+                "owner": "wiseodd",
+                "repo": "generative-models",
+                "stars": 7495
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BEGAN: Boundary Equilibrium Generative Adversarial Networks [Paper]",
+              "description": "[arXiv] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75829600,
+                "language": "Python",
+                "last_commit": "2024-03-24T20:38:46Z",
+                "owner": "wiseodd",
+                "repo": "generative-models",
+                "stars": 7495
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Boundary-Seeking Generative Adversarial Networks [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75829600,
+                "language": "Python",
+                "last_commit": "2024-03-24T20:38:46Z",
+                "owner": "wiseodd",
+                "repo": "generative-models",
+                "stars": 7495
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Conditional Generative Adversarial Nets [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75829600,
+                "language": "Python",
+                "last_commit": "2024-03-24T20:38:46Z",
+                "owner": "wiseodd",
+                "repo": "generative-models",
+                "stars": 7495
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Coupled Generative Adversarial Networks [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75829600,
+                "language": "Python",
+                "last_commit": "2024-03-24T20:38:46Z",
+                "owner": "wiseodd",
+                "repo": "generative-models",
+                "stars": 7495
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Energy-based Generative Adversarial Network [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75829600,
+                "language": "Python",
+                "last_commit": "2024-03-24T20:38:46Z",
+                "owner": "wiseodd",
+                "repo": "generative-models",
+                "stars": 7495
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75829600,
+                "language": "Python",
+                "last_commit": "2024-03-24T20:38:46Z",
+                "owner": "wiseodd",
+                "repo": "generative-models",
+                "stars": 7495
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Generative Adversarial Parallelization [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75829600,
+                "language": "Python",
+                "last_commit": "2024-03-24T20:38:46Z",
+                "owner": "wiseodd",
+                "repo": "generative-models",
+                "stars": 7495
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Improved Training of Wasserstein GANs [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75829600,
+                "language": "Python",
+                "last_commit": "2024-03-24T20:38:46Z",
+                "owner": "wiseodd",
+                "repo": "generative-models",
+                "stars": 7495
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75829600,
+                "language": "Python",
+                "last_commit": "2024-03-24T20:38:46Z",
+                "owner": "wiseodd",
+                "repo": "generative-models",
+                "stars": 7495
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning to Discover Cross-Domain Relations with Generative Adversarial Networks [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75829600,
+                "language": "Python",
+                "last_commit": "2024-03-24T20:38:46Z",
+                "owner": "wiseodd",
+                "repo": "generative-models",
+                "stars": 7495
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Least Squares Generative Adversarial Networks [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75829600,
+                "language": "Python",
+                "last_commit": "2024-03-24T20:38:46Z",
+                "owner": "wiseodd",
+                "repo": "generative-models",
+                "stars": 7495
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MAGAN: Margin Adaptation for Generative Adversarial Networks [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75829600,
+                "language": "Python",
+                "last_commit": "2024-03-24T20:38:46Z",
+                "owner": "wiseodd",
+                "repo": "generative-models",
+                "stars": 7495
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mode Regularized Generative Adversarial Networks [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75829600,
+                "language": "Python",
+                "last_commit": "2024-03-24T20:38:46Z",
+                "owner": "wiseodd",
+                "repo": "generative-models",
+                "stars": 7495
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Progressive Growing of GANs for Improved Quality, Stability, and Variation [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108524017,
+                "language": "Python",
+                "last_commit": "2022-02-17T12:44:14Z",
+                "owner": "tkarras",
+                "repo": "progressive_growing_of_gans",
+                "stars": 6178
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Generative Adversarial Networks [arXiv]",
+              "description": "[Code] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20651238,
+                "language": "Python",
+                "last_commit": "2020-05-25T03:31:19Z",
+                "owner": "goodfeli",
+                "repo": "adversarial",
+                "stars": 4076
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [arXiv]",
+              "description": "[Code] [Code] [Code] [Code] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46723165,
+                "language": "Python",
+                "last_commit": "2019-05-08T17:50:59Z",
+                "owner": "Newmu",
+                "repo": "dcgan_code",
+                "stars": 3527
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wasserstein GAN [arXiv]",
+              "description": "[Code] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80399758,
+                "language": "Python",
+                "last_commit": "2018-12-26T16:46:00Z",
+                "owner": "martinarjovsky",
+                "repo": "WassersteinGAN",
+                "stars": 3243
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Improved Techniques for Training GANs [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 60708386,
+                "language": "Python",
+                "last_commit": "2018-11-21T23:56:07Z",
+                "owner": "openai",
+                "repo": "improved-gan",
+                "stars": 2333
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Generative Moment Matching Networks [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30542956,
+                "language": "Python",
+                "last_commit": "2016-07-11T14:14:51Z",
+                "owner": "yujiali",
+                "repo": "gmmn",
+                "stars": 152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Enhancing GAN Performance Through Neural Architecture Search and Tensor Decomposition [Paper]",
+              "description": "[PDF] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 651666977,
+                "language": "Python",
+                "last_commit": "2026-08-03T16:53:59Z",
+                "owner": "PrasannaPulakurthi",
+                "repo": "MMD-AdversarialNAS-GAN",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Enhancing GANs with MMD Neural Architecture Search, PMish Activation Function, and Adaptive Rank Decomposition [Paper]",
+              "description": "[Code] [Website] [YouTube] [Demo]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 761997430,
+                "language": "Python",
+                "last_commit": "2025-08-23T06:57:49Z",
+                "owner": "PrasannaPulakurthi",
+                "repo": "MMD-PMish-NAS-GAN",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Theory & Machine Learning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Image-to-Image Translation with Conditional Adversarial Networks [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73968389,
+                "language": "Lua",
+                "last_commit": "2021-06-06T12:09:47Z",
+                "owner": "phillipi",
+                "repo": "pix2pix",
+                "stars": 10654
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Conditional Image Synthesis with Auxiliary Classifier GANs [Paper]",
+              "description": "[arXiv] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75829600,
+                "language": "Python",
+                "last_commit": "2024-03-24T20:38:46Z",
+                "owner": "wiseodd",
+                "repo": "generative-models",
+                "stars": 7495
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DualGAN: Unsupervised Dual Learning for Image-to-Image Translation [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75829600,
+                "language": "Python",
+                "last_commit": "2024-03-24T20:38:46Z",
+                "owner": "wiseodd",
+                "repo": "generative-models",
+                "stars": 7495
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Generative Visual Manipulation on the Natural Image Manifold [Project]",
+              "description": "[Youtube] [Paper] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68788179,
+                "language": "Python",
+                "last_commit": "2020-08-05T01:05:44Z",
+                "owner": "junyanz",
+                "repo": "iGAN",
+                "stars": 4003
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 161960205,
+                "language": "Python",
+                "last_commit": "2024-02-03T16:03:43Z",
+                "owner": "knazeri",
+                "repo": "edge-connect",
+                "stars": 2620
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Generative Adversarial Text to Image Synthesis [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65850354,
+                "language": "Python",
+                "last_commit": "2018-01-30T16:29:57Z",
+                "owner": "paarthneekhara",
+                "repo": "text-to-image",
+                "stars": 2163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Joint Discriminative and Generative Learning for Person Re-identification [Project]",
+              "description": "[Paper] [YouTube] [Bilibili] [Poster] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 194320424,
+                "language": "Python",
+                "last_commit": "2023-07-09T10:24:47Z",
+                "owner": "NVlabs",
+                "repo": "DG-Net",
+                "stars": 1298
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deep multi-scale video prediction beyond mean square error [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65582754,
+                "language": "Python",
+                "last_commit": "2021-10-23T19:38:17Z",
+                "owner": "dyelax",
+                "repo": "Adversarial_Video_Generation",
+                "stars": 748
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Arbitrary Facial Attribute Editing: Only Change What You Want [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132308267,
+                "language": "Python",
+                "last_commit": "2025-02-21T01:36:12Z",
+                "owner": "LynnHo",
+                "repo": "AttGAN-Tensorflow",
+                "stars": 612
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks [arXiv]",
+              "description": "[Code] [Blog]",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 37670565,
+                "language": "Lua",
+                "last_commit": "2017-10-16T15:20:57Z",
+                "owner": "facebookarchive",
+                "repo": "eyescream",
+                "stars": 596
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unlabeled Samples Generated by GAN Improve the Person Re-identification Baseline in vitro [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97428018,
+                "language": "Cuda",
+                "last_commit": "2021-06-29T10:21:55Z",
+                "owner": "layumi",
+                "repo": "Person-reID_GAN",
+                "stars": 321
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Improved Adversarial Systems for 3D Object Generation and Reconstruction [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98673300,
+                "language": "Python",
+                "last_commit": "2020-11-13T15:01:35Z",
+                "owner": "EdwardSmith1884",
+                "repo": "3D-IWGAN",
+                "stars": 207
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90262569,
+                "language": "Python",
+                "last_commit": "2018-04-26T08:13:26Z",
+                "owner": "Prinsphield",
+                "repo": "GeneGAN",
+                "stars": 143
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Texture Synthesis with Spatial Generative Adversarial Networks [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75093198,
+                "language": "Python",
+                "last_commit": "2020-09-17T07:40:37Z",
+                "owner": "zalandoresearch",
+                "repo": "spatial_gan",
+                "stars": 112
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 158641670,
+                "language": "Python",
+                "last_commit": "2019-08-05T01:27:53Z",
+                "owner": "woozzu",
+                "repo": "tagan",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Towards Adversarial Retinal Image Synthesis [arXiv]",
+              "description": "[Code] [Demo]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80446439,
+                "language": "Python",
+                "last_commit": "2017-04-10T14:47:05Z",
+                "owner": "costapt",
+                "repo": "vess2ret",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SingleGAN: Image-to-Image Translation by a Single-Generator Network using Multiple Generative Adversarial Learning [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152577737,
+                "language": "Python",
+                "last_commit": "2020-01-16T12:52:33Z",
+                "owner": "Xiaoming-Yu",
+                "repo": "SingleGAN",
+                "stars": 83
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Analyzing Perception-Distortion Tradeoff using Enhanced Perceptual Super-resolution Network [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148771657,
+                "language": "Python",
+                "last_commit": "2020-07-14T08:12:06Z",
+                "owner": "subeeshvasu",
+                "repo": "2018_subeesh_epsr_eccvw",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Generative Adversarial Graph Convolutional Networks for Human Action Synthesis [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 348355290,
+                "language": "Python",
+                "last_commit": "2022-09-26T11:02:19Z",
+                "owner": "DegardinBruno",
+                "repo": "Kinetic-GAN",
+                "stars": 77
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A step towards procedural terrain generation with GANs [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 92185388,
+                "language": "Jupyter Notebook",
+                "last_commit": "2017-07-18T16:16:12Z",
+                "owner": "christopher-beckham",
+                "repo": "gan-heightmaps",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Global-to-Local Generative Model for 3D Shapes [Project]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159916203,
+                "language": "Python",
+                "last_commit": "2019-09-25T08:24:14Z",
+                "owner": "Hao-HUST",
+                "repo": "G2LGAN",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CompoNet: Learning to Generate the Unseen by Part Synthesis and Composition [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205586469,
+                "language": "Python",
+                "last_commit": "2019-10-27T11:42:27Z",
+                "owner": "nschor",
+                "repo": "CompoNet",
+                "stars": 28
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Applied Vision"
+        }
+      ],
+      "title": "Papers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:58:10.971Z",
+    "last_updated": "2026-08-20T02:58:01.059Z",
     "original_repository": "nightrome/really-awesome-gan",
+    "original_repository_id": 87085729,
     "original_repository_sha": "19b5b1af1a7c045e3f2ccc9e914fdfc326318af8",
     "enhanced_repository": "enhansome/really-enhansome-gan",
     "enhanced_repository_description": null,

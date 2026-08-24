@@ -35,7 +35,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 
 # Tutorials & Workshops & Blogs
 
-* How to Train a GAN? Tips and tricks to make GANs work [\[Blog\]](https://github.com/soumith/ganhacks) ⭐ 11,617 | 🐛 58 | 📅 2022-01-09
+* How to Train a GAN? Tips and tricks to make GANs work [\[Blog\]](https://github.com/soumith/ganhacks) ⭐ 11,616 | 🐛 58 | 📅 2022-01-09
 * Deep Diving into GANs: from theory to production (EuroScipy 2018) [\[GitHub\]](https://github.com/zurutech/gans-from-theory-to-production) ⭐ 210 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-03-24
 * Columbia Advanced Machine Learning Seminar
   * New Progress on GAN Theory and Practice [\[Blog\]](https://casmls.github.io/general/2017/04/13/gan.html)
@@ -91,7 +91,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 * Least Squares Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1611.04076) [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,494 | 🐛 24 | 🌐 Python | 📅 2024-03-24
 * MAGAN: Margin Adaptation for Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1704.03817) [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,494 | 🐛 24 | 🌐 Python | 📅 2024-03-24
 * Mode Regularized Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1612.02136) [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,494 | 🐛 24 | 🌐 Python | 📅 2024-03-24
-* Progressive Growing of GANs for Improved Quality, Stability, and Variation [\[arXiv\]](https://arxiv.org/abs/1710.10196) [\[Code\]](https://github.com/tkarras/progressive_growing_of_gans) ⭐ 6,180 | 🐛 11 | 🌐 Python | 📅 2022-02-17
+* Progressive Growing of GANs for Improved Quality, Stability, and Variation [\[arXiv\]](https://arxiv.org/abs/1710.10196) [\[Code\]](https://github.com/tkarras/progressive_growing_of_gans) ⭐ 6,179 | 🐛 11 | 🌐 Python | 📅 2022-02-17
 * Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1406.2661) [\[Code\]](https://github.com/goodfeli/adversarial) ⭐ 4,077 | 🐛 7 | 🌐 Python | 📅 2020-05-25 [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,494 | 🐛 24 | 🌐 Python | 📅 2024-03-24
 * Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1511.06434) [\[Code\]](https://github.com/Newmu/dcgan_code) ⭐ 3,527 | 🐛 31 | 🌐 Python | 📅 2019-05-08 [\[Code\]](https://github.com/pytorch/examples/tree/master/dcgan) ⭐ 24,013 | 🐛 252 | 🌐 Python | 📅 2025-09-01 [\[Code\]](https://github.com/carpedm20/DCGAN-tensorflow) ⭐ 7,177 | 🐛 188 | 🌐 JavaScript | 📅 2021-01-06 [\[Code\]](https://github.com/soumith/dcgan.torch) ⭐ 1,488 | 🐛 41 | 🌐 Lua | 📅 2021-08-02 [\[Code\]](https://github.com/jacobgil/keras-dcgan) ⭐ 977 | 🐛 25 | 🌐 Python | 📅 2017-07-21
 * Wasserstein GAN [\[arXiv\]](https://arxiv.org/abs/1701.07875) [\[Code\]](https://github.com/martinarjovsky/WassersteinGAN) ⭐ 3,243 | 🐛 28 | 🌐 Python | 📅 2018-12-26 [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,494 | 🐛 24 | 🌐 Python | 📅 2024-03-24
@@ -182,7 +182,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 
 ## Applied Vision
 
-* Image-to-Image Translation with Conditional Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1611.07004) [\[Code\]](https://github.com/phillipi/pix2pix) ⭐ 10,654 | 🐛 92 | 🌐 Lua | 📅 2021-06-06
+* Image-to-Image Translation with Conditional Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1611.07004) [\[Code\]](https://github.com/phillipi/pix2pix) ⭐ 10,653 | 🐛 92 | 🌐 Lua | 📅 2021-06-06
 * Conditional Image Synthesis with Auxiliary Classifier GANs [\[Paper\]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_7.pdf) [\[arXiv\]](https://arxiv.org/abs/1610.09585) [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,494 | 🐛 24 | 🌐 Python | 📅 2024-03-24
 * DualGAN: Unsupervised Dual Learning for Image-to-Image Translation [\[arXiv\]](https://arxiv.org/abs/1704.02510) [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,494 | 🐛 24 | 🌐 Python | 📅 2024-03-24
 * Generative Visual Manipulation on the Natural Image Manifold [\[Project\]](http://www.eecs.berkeley.edu/~junyanz/projects/gvm/) [\[Youtube\]](https://youtu.be/9c4z6YsBGQ0) [\[Paper\]](https://arxiv.org/abs/1609.03552) [\[Code\]](https://github.com/junyanz/iGAN) ⭐ 4,005 | 🐛 14 | 🌐 Python | 📅 2020-08-05
@@ -344,6 +344,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 
 ## Applied Other
 
+* Reconstruction of three-dimensional porous media using generative adversarial neural networks [\[arXiv\]](https://arxiv.org/abs/1704.03225) [\[Code\]](https://github.com/LukasMosser/PorousMediaGan) ⭐ 190 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2019-08-02
 * Adversarial Generation of Natural Language [\[arXiv\]](https://arxiv.org/abs/1705.10929)
 * Adversarial Ranking for Language Generation [\[arXiv\]](https://arxiv.org/abs/1705.11001)
 * Adversarial Training Methods for Semi-Supervised Text Classification [\[arXiv\]](https://arxiv.org/abs/1605.07725) [\[Paper\]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_12.pdf)
@@ -356,7 +357,6 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 * Long Text Generation via Adversarial Training with Leaked Information [\[arXiv\]](https://arxiv.org/abs/1709.08624)
 * MidiNet: A Convolutional Generative Adversarial Network for Symbolic-domain Music Generation using 1D and 2D Conditions [\[arXiv\]](https://arxiv.org/abs/1703.10847)
 * MuseGAN: Symbolic-domain Music Generation and Accompaniment with Multi-track Sequential Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1709.06298)
-* Reconstruction of three-dimensional porous media using generative adversarial neural networks [\[arXiv\]](https://arxiv.org/abs/1704.03225) [\[Code\]](https://github.com/LukasMosser/PorousMediaGan) ⭐ 190 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2019-08-02
 * SEGAN: Speech Enhancement Generative Adversarial Network [\[arXiv\]](https://arxiv.org/abs/1703.09452)
 * Semi-supervised Learning of Compact Document Representations with Deep Networks [\[Paper\]](http://www.cs.nyu.edu/~ranzato/publications/ranzato-icml08.pdf)
 * SSGAN: Secure Steganography Based on Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1707.01613)

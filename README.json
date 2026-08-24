@@ -15,7 +15,7 @@
             "last_commit": "2022-01-09T06:29:17Z",
             "owner": "soumith",
             "repo": "ganhacks",
-            "stars": 11617
+            "stars": 11616
           }
         },
         {
@@ -419,7 +419,7 @@
                 "last_commit": "2022-02-17T12:44:14Z",
                 "owner": "tkarras",
                 "repo": "progressive_growing_of_gans",
-                "stars": 6180
+                "stars": 6179
               }
             },
             {
@@ -546,7 +546,7 @@
                 "last_commit": "2021-06-06T12:09:47Z",
                 "owner": "phillipi",
                 "repo": "pix2pix",
-                "stars": 10654
+                "stars": 10653
               }
             },
             {
@@ -868,13 +868,35 @@
           "description": null,
           "node_type": "group",
           "title": "Applied Vision"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Reconstruction of three-dimensional porous media using generative adversarial neural networks [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79212796,
+                "language": "Jupyter Notebook",
+                "last_commit": "2019-08-02T08:27:08Z",
+                "owner": "LukasMosser",
+                "repo": "PorousMediaGan",
+                "stars": 190
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Applied Other"
         }
       ],
       "title": "Papers"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:04:32.021Z",
+    "last_updated": "2026-08-24T13:57:33.164Z",
     "original_repository": "nightrome/really-awesome-gan",
     "original_repository_id": 87085729,
     "original_repository_sha": "19b5b1af1a7c045e3f2ccc9e914fdfc326318af8",

@@ -15,7 +15,7 @@
             "last_commit": "2022-01-09T06:29:17Z",
             "owner": "soumith",
             "repo": "ganhacks",
-            "stars": 11616
+            "stars": 11617
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-17T19:38:27Z",
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2861
+            "stars": 2863
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-17T19:38:27Z",
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2861
+            "stars": 2863
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-17T19:38:27Z",
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2861
+            "stars": 2863
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-08-17T19:38:27Z",
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2861
+            "stars": 2863
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-17T19:38:27Z",
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2861
+            "stars": 2863
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2026-08-17T19:38:27Z",
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2861
+            "stars": 2863
           }
         },
         {
@@ -419,7 +419,7 @@
                 "last_commit": "2022-02-17T12:44:14Z",
                 "owner": "tkarras",
                 "repo": "progressive_growing_of_gans",
-                "stars": 6179
+                "stars": 6180
               }
             },
             {
@@ -874,7 +874,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T03:04:08.484Z",
+    "last_updated": "2026-08-24T03:04:32.021Z",
     "original_repository": "nightrome/really-awesome-gan",
     "original_repository_id": 87085729,
     "original_repository_sha": "19b5b1af1a7c045e3f2ccc9e914fdfc326318af8",

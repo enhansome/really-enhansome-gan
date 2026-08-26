@@ -92,8 +92,8 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 * MAGAN: Margin Adaptation for Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1704.03817) [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,494 | 🐛 24 | 🌐 Python | 📅 2024-03-24
 * Mode Regularized Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1612.02136) [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,494 | 🐛 24 | 🌐 Python | 📅 2024-03-24
 * Progressive Growing of GANs for Improved Quality, Stability, and Variation [\[arXiv\]](https://arxiv.org/abs/1710.10196) [\[Code\]](https://github.com/tkarras/progressive_growing_of_gans) ⭐ 6,179 | 🐛 11 | 🌐 Python | 📅 2022-02-17
-* Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1406.2661) [\[Code\]](https://github.com/goodfeli/adversarial) ⭐ 4,077 | 🐛 7 | 🌐 Python | 📅 2020-05-25 [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,494 | 🐛 24 | 🌐 Python | 📅 2024-03-24
-* Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1511.06434) [\[Code\]](https://github.com/Newmu/dcgan_code) ⭐ 3,527 | 🐛 31 | 🌐 Python | 📅 2019-05-08 [\[Code\]](https://github.com/pytorch/examples/tree/master/dcgan) ⭐ 24,013 | 🐛 252 | 🌐 Python | 📅 2025-09-01 [\[Code\]](https://github.com/carpedm20/DCGAN-tensorflow) ⭐ 7,177 | 🐛 188 | 🌐 JavaScript | 📅 2021-01-06 [\[Code\]](https://github.com/soumith/dcgan.torch) ⭐ 1,488 | 🐛 41 | 🌐 Lua | 📅 2021-08-02 [\[Code\]](https://github.com/jacobgil/keras-dcgan) ⭐ 977 | 🐛 25 | 🌐 Python | 📅 2017-07-21
+* Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1406.2661) [\[Code\]](https://github.com/goodfeli/adversarial) ⭐ 4,078 | 🐛 7 | 🌐 Python | 📅 2020-05-25 [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,494 | 🐛 24 | 🌐 Python | 📅 2024-03-24
+* Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1511.06434) [\[Code\]](https://github.com/Newmu/dcgan_code) ⭐ 3,527 | 🐛 31 | 🌐 Python | 📅 2019-05-08 [\[Code\]](https://github.com/pytorch/examples/tree/master/dcgan) ⭐ 24,014 | 🐛 252 | 🌐 Python | 📅 2025-09-01 [\[Code\]](https://github.com/carpedm20/DCGAN-tensorflow) ⭐ 7,177 | 🐛 188 | 🌐 JavaScript | 📅 2021-01-06 [\[Code\]](https://github.com/soumith/dcgan.torch) ⭐ 1,488 | 🐛 41 | 🌐 Lua | 📅 2021-08-02 [\[Code\]](https://github.com/jacobgil/keras-dcgan) ⭐ 977 | 🐛 25 | 🌐 Python | 📅 2017-07-21
 * Wasserstein GAN [\[arXiv\]](https://arxiv.org/abs/1701.07875) [\[Code\]](https://github.com/martinarjovsky/WassersteinGAN) ⭐ 3,243 | 🐛 28 | 🌐 Python | 📅 2018-12-26 [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,494 | 🐛 24 | 🌐 Python | 📅 2024-03-24
 * Improved Techniques for Training GANs [\[arXiv\]](https://arxiv.org/abs/1606.03498) [\[Code\]](https://github.com/openai/improved-gan) ⚠️ Archived
 * Generative Moment Matching Networks [\[arXiv\]](https://arxiv.org/abs/1502.02761) [\[Code\]](https://github.com/yujiali/gmmn) ⭐ 152 | 🐛 0 | 🌐 Python | 📅 2016-07-11
@@ -182,7 +182,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 
 ## Applied Vision
 
-* Image-to-Image Translation with Conditional Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1611.07004) [\[Code\]](https://github.com/phillipi/pix2pix) ⭐ 10,653 | 🐛 92 | 🌐 Lua | 📅 2021-06-06
+* Image-to-Image Translation with Conditional Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1611.07004) [\[Code\]](https://github.com/phillipi/pix2pix) ⭐ 10,652 | 🐛 92 | 🌐 Lua | 📅 2021-06-06
 * Conditional Image Synthesis with Auxiliary Classifier GANs [\[Paper\]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_7.pdf) [\[arXiv\]](https://arxiv.org/abs/1610.09585) [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,494 | 🐛 24 | 🌐 Python | 📅 2024-03-24
 * DualGAN: Unsupervised Dual Learning for Image-to-Image Translation [\[arXiv\]](https://arxiv.org/abs/1704.02510) [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,494 | 🐛 24 | 🌐 Python | 📅 2024-03-24
 * Generative Visual Manipulation on the Natural Image Manifold [\[Project\]](http://www.eecs.berkeley.edu/~junyanz/projects/gvm/) [\[Youtube\]](https://youtu.be/9c4z6YsBGQ0) [\[Paper\]](https://arxiv.org/abs/1609.03552) [\[Code\]](https://github.com/junyanz/iGAN) ⭐ 4,005 | 🐛 14 | 🌐 Python | 📅 2020-08-05
@@ -190,7 +190,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 * Generative Adversarial Text to Image Synthesis [\[arXiv\]](https://arxiv.org/abs/1605.05396) [\[Code\]](https://github.com/paarthneekhara/text-to-image) ⭐ 2,163 | 🐛 47 | 🌐 Python | 📅 2018-01-30
 * Joint Discriminative and Generative Learning for Person Re-identification [\[Project\]](http://zdzheng.xyz/DG-Net/) [\[Paper\]](https://arxiv.org/abs/1904.07223) [\[YouTube\]](https://www.youtube.com/watch?v=ubCrEAIpQs4) [\[Bilibili\]](https://www.bilibili.com/video/av51439240) [\[Poster\]](http://zdzheng.xyz/images/DGNet_poster.pdf) [\[Code\]](https://github.com/NVlabs/DG-Net) ⭐ 1,298 | 🐛 45 | 🌐 Python | 📅 2023-07-09
 * Deep multi-scale video prediction beyond mean square error [\[arXiv\]](https://arxiv.org/abs/1511.05440) [\[Code\]](https://github.com/dyelax/Adversarial_Video_Generation) ⭐ 748 | 🐛 25 | 🌐 Python | 📅 2021-10-23
-* Arbitrary Facial Attribute Editing: Only Change What You Want [\[arXiv\]](https://arxiv.org/abs/1711.10678) [\[Code\]](https://github.com/LynnHo/AttGAN-Tensorflow) ⭐ 612 | 🐛 0 | 🌐 Python | 📅 2025-02-21
+* Arbitrary Facial Attribute Editing: Only Change What You Want [\[arXiv\]](https://arxiv.org/abs/1711.10678) [\[Code\]](https://github.com/LynnHo/AttGAN-Tensorflow) ⭐ 613 | 🐛 0 | 🌐 Python | 📅 2025-02-21
 * Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1506.05751) [\[Code\]](https://github.com/facebook/eyescream) ⚠️ Archived [\[Blog\]](http://soumith.ch/eyescream/)
 * Unlabeled Samples Generated by GAN Improve the Person Re-identification Baseline in vitro [\[arXiv\]](https://arxiv.org/abs/1701.07717)[\[Code\]](https://github.com/layumi/Person-reID_GAN) ⭐ 321 | 🐛 7 | 🌐 Cuda | 📅 2021-06-29
 * Improved Adversarial Systems for 3D Object Generation and Reconstruction [\[arXiv\]](https://arxiv.org/abs/1707.09557) [\[Code\]](https://github.com/EdwardSmith1884/3D-IWGAN) ⭐ 207 | 🐛 4 | 🌐 Python | 📅 2020-11-13
@@ -369,4 +369,4 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

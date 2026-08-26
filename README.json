@@ -434,7 +434,7 @@
                 "last_commit": "2020-05-25T03:31:19Z",
                 "owner": "goodfeli",
                 "repo": "adversarial",
-                "stars": 4077
+                "stars": 4078
               }
             },
             {
@@ -546,7 +546,7 @@
                 "last_commit": "2021-06-06T12:09:47Z",
                 "owner": "phillipi",
                 "repo": "pix2pix",
-                "stars": 10653
+                "stars": 10652
               }
             },
             {
@@ -666,7 +666,7 @@
                 "last_commit": "2025-02-21T01:36:12Z",
                 "owner": "LynnHo",
                 "repo": "AttGAN-Tensorflow",
-                "stars": 612
+                "stars": 613
               }
             },
             {
@@ -896,7 +896,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:50:52.908Z",
+    "last_updated": "2026-08-26T03:06:33.536Z",
     "original_repository": "nightrome/really-awesome-gan",
     "original_repository_id": 87085729,
     "original_repository_sha": "19b5b1af1a7c045e3f2ccc9e914fdfc326318af8",

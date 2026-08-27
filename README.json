@@ -66,7 +66,7 @@
             "last_commit": "2024-04-10T13:26:10Z",
             "owner": "cleverhans-lab",
             "repo": "cleverhans",
-            "stars": 6449
+            "stars": 6450
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 307222796,
             "language": "Python",
-            "last_commit": "2026-08-17T19:38:27Z",
+            "last_commit": "2026-08-26T19:16:28Z",
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2863
+            "stars": 2867
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 307222796,
             "language": "Python",
-            "last_commit": "2026-08-17T19:38:27Z",
+            "last_commit": "2026-08-26T19:16:28Z",
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2863
+            "stars": 2867
           }
         },
         {
@@ -108,10 +108,10 @@
             "archived": false,
             "id": 307222796,
             "language": "Python",
-            "last_commit": "2026-08-17T19:38:27Z",
+            "last_commit": "2026-08-26T19:16:28Z",
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2863
+            "stars": 2867
           }
         },
         {
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 307222796,
             "language": "Python",
-            "last_commit": "2026-08-17T19:38:27Z",
+            "last_commit": "2026-08-26T19:16:28Z",
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2863
+            "stars": 2867
           }
         },
         {
@@ -138,10 +138,10 @@
             "archived": false,
             "id": 307222796,
             "language": "Python",
-            "last_commit": "2026-08-17T19:38:27Z",
+            "last_commit": "2026-08-26T19:16:28Z",
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2863
+            "stars": 2867
           }
         },
         {
@@ -153,10 +153,10 @@
             "archived": false,
             "id": 307222796,
             "language": "Python",
-            "last_commit": "2026-08-17T19:38:27Z",
+            "last_commit": "2026-08-26T19:16:28Z",
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2863
+            "stars": 2867
           }
         },
         {
@@ -896,9 +896,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:06:33.536Z",
-    "original_repository": "nightrome/really-awesome-gan",
-    "original_repository_id": 87085729,
+    "last_updated": "2026-08-27T12:14:50.433Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 87085729,
+      "language": null,
+      "last_commit": "2025-08-24T07:57:51Z",
+      "owner": "nightrome",
+      "repo": "really-awesome-gan",
+      "stars": 3773
+    },
     "original_repository_sha": "19b5b1af1a7c045e3f2ccc9e914fdfc326318af8",
     "enhanced_repository": "enhansome/really-enhansome-gan",
     "enhanced_repository_description": null,

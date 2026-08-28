@@ -60,12 +60,12 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 
 * Generative Models: Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,494 | 🐛 24 | 🌐 Python | 📅 2024-03-24
 * Cleverhans: A library for benchmarking vulnerability to adversarial examples [\[Code\]](https://github.com/openai/cleverhans) ⭐ 6,450 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2024-04-10 [\[Blog\]](http://cleverhans.io/)
-* Reproduction of the GANs paper (MNIST) in 100 lines of PyTorch code  [\[Blog\]](https://papers-100-lines.medium.com/generative-adversarial-networks-in-100-lines-of-code-516f09d1790a) [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Generative_Adversarial_Networks) ⭐ 2,867 | 🐛 0 | 🌐 Python | 📅 2026-08-26
-* Reproduction of results from the paper *Conditional Generative Adversarial Nets* in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Conditional_Generative_Adversarial_Nets) ⭐ 2,867 | 🐛 0 | 🌐 Python | 📅 2026-08-26
-* Reproduction of results from the paper *Improved Techniques for Training GANs* in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Improved_Techniques_for_Training_GANs) ⭐ 2,867 | 🐛 0 | 🌐 Python | 📅 2026-08-26
-* Reproduction of results from the *LSGAN* paper in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Least_Squares_Generative_Adversarial_Networks) ⭐ 2,867 | 🐛 0 | 🌐 Python | 📅 2026-08-26
-* Reproduction of results from the *WGAN* paper in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Wasserstein_GAN) ⭐ 2,867 | 🐛 0 | 🌐 Python | 📅 2026-08-26
-* Reproduction of results from the *pix2pix* paper in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Image_to_Image_Translation_with_Conditional_Adversarial_Nets) ⭐ 2,867 | 🐛 0 | 🌐 Python | 📅 2026-08-26
+* Reproduction of the GANs paper (MNIST) in 100 lines of PyTorch code  [\[Blog\]](https://papers-100-lines.medium.com/generative-adversarial-networks-in-100-lines-of-code-516f09d1790a) [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Generative_Adversarial_Networks) ⭐ 2,868 | 🐛 0 | 🌐 Python | 📅 2026-08-26
+* Reproduction of results from the paper *Conditional Generative Adversarial Nets* in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Conditional_Generative_Adversarial_Nets) ⭐ 2,868 | 🐛 0 | 🌐 Python | 📅 2026-08-26
+* Reproduction of results from the paper *Improved Techniques for Training GANs* in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Improved_Techniques_for_Training_GANs) ⭐ 2,868 | 🐛 0 | 🌐 Python | 📅 2026-08-26
+* Reproduction of results from the *LSGAN* paper in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Least_Squares_Generative_Adversarial_Networks) ⭐ 2,868 | 🐛 0 | 🌐 Python | 📅 2026-08-26
+* Reproduction of results from the *WGAN* paper in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Wasserstein_GAN) ⭐ 2,868 | 🐛 0 | 🌐 Python | 📅 2026-08-26
+* Reproduction of results from the *pix2pix* paper in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Image_to_Image_Translation_with_Conditional_Adversarial_Nets) ⭐ 2,868 | 🐛 0 | 🌐 Python | 📅 2026-08-26
 * Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch) [\[Blog\]](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f) [\[Code\]](https://github.com/devnag/pytorch-generative-adversarial-networks) ⭐ 1,540 | 🐛 4 | 🌐 Python | 📅 2021-06-30
 
 # Papers
@@ -185,11 +185,11 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 * Image-to-Image Translation with Conditional Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1611.07004) [\[Code\]](https://github.com/phillipi/pix2pix) ⭐ 10,652 | 🐛 92 | 🌐 Lua | 📅 2021-06-06
 * Conditional Image Synthesis with Auxiliary Classifier GANs [\[Paper\]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_7.pdf) [\[arXiv\]](https://arxiv.org/abs/1610.09585) [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,494 | 🐛 24 | 🌐 Python | 📅 2024-03-24
 * DualGAN: Unsupervised Dual Learning for Image-to-Image Translation [\[arXiv\]](https://arxiv.org/abs/1704.02510) [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,494 | 🐛 24 | 🌐 Python | 📅 2024-03-24
-* Generative Visual Manipulation on the Natural Image Manifold [\[Project\]](http://www.eecs.berkeley.edu/~junyanz/projects/gvm/) [\[Youtube\]](https://youtu.be/9c4z6YsBGQ0) [\[Paper\]](https://arxiv.org/abs/1609.03552) [\[Code\]](https://github.com/junyanz/iGAN) ⭐ 4,005 | 🐛 14 | 🌐 Python | 📅 2020-08-05
+* Generative Visual Manipulation on the Natural Image Manifold [\[Project\]](http://www.eecs.berkeley.edu/~junyanz/projects/gvm/) [\[Youtube\]](https://youtu.be/9c4z6YsBGQ0) [\[Paper\]](https://arxiv.org/abs/1609.03552) [\[Code\]](https://github.com/junyanz/iGAN) ⭐ 4,006 | 🐛 14 | 🌐 Python | 📅 2020-08-05
 * EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning [\[arXiv\]](https://arxiv.org/abs/1901.00212) [\[Code\]](https://github.com/knazeri/edge-connect) ⭐ 2,620 | 🐛 108 | 🌐 Python | 📅 2024-02-03
 * Generative Adversarial Text to Image Synthesis [\[arXiv\]](https://arxiv.org/abs/1605.05396) [\[Code\]](https://github.com/paarthneekhara/text-to-image) ⭐ 2,163 | 🐛 47 | 🌐 Python | 📅 2018-01-30
 * Joint Discriminative and Generative Learning for Person Re-identification [\[Project\]](http://zdzheng.xyz/DG-Net/) [\[Paper\]](https://arxiv.org/abs/1904.07223) [\[YouTube\]](https://www.youtube.com/watch?v=ubCrEAIpQs4) [\[Bilibili\]](https://www.bilibili.com/video/av51439240) [\[Poster\]](http://zdzheng.xyz/images/DGNet_poster.pdf) [\[Code\]](https://github.com/NVlabs/DG-Net) ⭐ 1,298 | 🐛 45 | 🌐 Python | 📅 2023-07-09
-* Deep multi-scale video prediction beyond mean square error [\[arXiv\]](https://arxiv.org/abs/1511.05440) [\[Code\]](https://github.com/dyelax/Adversarial_Video_Generation) ⭐ 748 | 🐛 25 | 🌐 Python | 📅 2021-10-23
+* Deep multi-scale video prediction beyond mean square error [\[arXiv\]](https://arxiv.org/abs/1511.05440) [\[Code\]](https://github.com/dyelax/Adversarial_Video_Generation) ⭐ 748 | 🐛 24 | 🌐 Python | 📅 2021-10-23
 * Arbitrary Facial Attribute Editing: Only Change What You Want [\[arXiv\]](https://arxiv.org/abs/1711.10678) [\[Code\]](https://github.com/LynnHo/AttGAN-Tensorflow) ⭐ 613 | 🐛 0 | 🌐 Python | 📅 2025-02-21
 * Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1506.05751) [\[Code\]](https://github.com/facebook/eyescream) ⚠️ Archived [\[Blog\]](http://soumith.ch/eyescream/)
 * Unlabeled Samples Generated by GAN Improve the Person Re-identification Baseline in vitro [\[arXiv\]](https://arxiv.org/abs/1701.07717)[\[Code\]](https://github.com/layumi/Person-reID_GAN) ⭐ 321 | 🐛 7 | 🌐 Cuda | 📅 2021-06-29
@@ -369,4 +369,4 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

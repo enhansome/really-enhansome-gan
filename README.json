@@ -16,7 +16,8 @@
             "owner": "soumith",
             "repo": "ganhacks",
             "stars": 11616
-          }
+          },
+          "first_seen": "2026-08-28T13:55:25.399Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "zurutech",
             "repo": "gans-from-theory-to-production",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T13:55:25.399Z"
         }
       ],
       "title": "Tutorials & Workshops & Blogs"
@@ -52,7 +54,8 @@
             "owner": "wiseodd",
             "repo": "generative-models",
             "stars": 7494
-          }
+          },
+          "first_seen": "2026-08-28T13:55:25.399Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "cleverhans-lab",
             "repo": "cleverhans",
             "stars": 6450
-          }
+          },
+          "first_seen": "2026-08-28T13:55:25.399Z"
         },
         {
           "node_type": "item",
@@ -81,8 +85,9 @@
             "last_commit": "2026-08-26T19:16:28Z",
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2867
-          }
+            "stars": 2868
+          },
+          "first_seen": "2026-08-28T13:55:25.399Z"
         },
         {
           "node_type": "item",
@@ -96,8 +101,9 @@
             "last_commit": "2026-08-26T19:16:28Z",
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2867
-          }
+            "stars": 2868
+          },
+          "first_seen": "2026-08-28T13:55:25.399Z"
         },
         {
           "node_type": "item",
@@ -111,8 +117,9 @@
             "last_commit": "2026-08-26T19:16:28Z",
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2867
-          }
+            "stars": 2868
+          },
+          "first_seen": "2026-08-28T13:55:25.399Z"
         },
         {
           "node_type": "item",
@@ -126,8 +133,9 @@
             "last_commit": "2026-08-26T19:16:28Z",
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2867
-          }
+            "stars": 2868
+          },
+          "first_seen": "2026-08-28T13:55:25.399Z"
         },
         {
           "node_type": "item",
@@ -141,8 +149,9 @@
             "last_commit": "2026-08-26T19:16:28Z",
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2867
-          }
+            "stars": 2868
+          },
+          "first_seen": "2026-08-28T13:55:25.399Z"
         },
         {
           "node_type": "item",
@@ -156,8 +165,9 @@
             "last_commit": "2026-08-26T19:16:28Z",
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2867
-          }
+            "stars": 2868
+          },
+          "first_seen": "2026-08-28T13:55:25.399Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "devnag",
             "repo": "pytorch-generative-adversarial-networks",
             "stars": 1540
-          }
+          },
+          "first_seen": "2026-08-28T13:55:25.399Z"
         }
       ],
       "title": "Code"
@@ -195,7 +206,8 @@
                 "owner": "wiseodd",
                 "repo": "generative-models",
                 "stars": 7494
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -210,7 +222,8 @@
                 "owner": "wiseodd",
                 "repo": "generative-models",
                 "stars": 7494
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -225,7 +238,8 @@
                 "owner": "wiseodd",
                 "repo": "generative-models",
                 "stars": 7494
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -240,7 +254,8 @@
                 "owner": "wiseodd",
                 "repo": "generative-models",
                 "stars": 7494
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -255,7 +270,8 @@
                 "owner": "wiseodd",
                 "repo": "generative-models",
                 "stars": 7494
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -270,7 +286,8 @@
                 "owner": "wiseodd",
                 "repo": "generative-models",
                 "stars": 7494
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -285,7 +302,8 @@
                 "owner": "wiseodd",
                 "repo": "generative-models",
                 "stars": 7494
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -300,7 +318,8 @@
                 "owner": "wiseodd",
                 "repo": "generative-models",
                 "stars": 7494
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -315,7 +334,8 @@
                 "owner": "wiseodd",
                 "repo": "generative-models",
                 "stars": 7494
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -330,7 +350,8 @@
                 "owner": "wiseodd",
                 "repo": "generative-models",
                 "stars": 7494
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -345,7 +366,8 @@
                 "owner": "wiseodd",
                 "repo": "generative-models",
                 "stars": 7494
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -360,7 +382,8 @@
                 "owner": "wiseodd",
                 "repo": "generative-models",
                 "stars": 7494
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -375,7 +398,8 @@
                 "owner": "wiseodd",
                 "repo": "generative-models",
                 "stars": 7494
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -390,7 +414,8 @@
                 "owner": "wiseodd",
                 "repo": "generative-models",
                 "stars": 7494
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -405,7 +430,8 @@
                 "owner": "wiseodd",
                 "repo": "generative-models",
                 "stars": 7494
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -420,7 +446,8 @@
                 "owner": "tkarras",
                 "repo": "progressive_growing_of_gans",
                 "stars": 6179
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -435,7 +462,8 @@
                 "owner": "goodfeli",
                 "repo": "adversarial",
                 "stars": 4078
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -450,7 +478,8 @@
                 "owner": "Newmu",
                 "repo": "dcgan_code",
                 "stars": 3527
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -465,7 +494,8 @@
                 "owner": "martinarjovsky",
                 "repo": "WassersteinGAN",
                 "stars": 3243
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -480,7 +510,8 @@
                 "owner": "openai",
                 "repo": "improved-gan",
                 "stars": 2333
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -495,7 +526,8 @@
                 "owner": "yujiali",
                 "repo": "gmmn",
                 "stars": 152
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -510,7 +542,8 @@
                 "owner": "PrasannaPulakurthi",
                 "repo": "MMD-AdversarialNAS-GAN",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -525,7 +558,8 @@
                 "owner": "PrasannaPulakurthi",
                 "repo": "MMD-PMish-NAS-GAN",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             }
           ],
           "description": null,
@@ -547,7 +581,8 @@
                 "owner": "phillipi",
                 "repo": "pix2pix",
                 "stars": 10652
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -562,7 +597,8 @@
                 "owner": "wiseodd",
                 "repo": "generative-models",
                 "stars": 7494
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -577,7 +613,8 @@
                 "owner": "wiseodd",
                 "repo": "generative-models",
                 "stars": 7494
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -591,8 +628,9 @@
                 "last_commit": "2020-08-05T01:05:44Z",
                 "owner": "junyanz",
                 "repo": "iGAN",
-                "stars": 4005
-              }
+                "stars": 4006
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -607,7 +645,8 @@
                 "owner": "knazeri",
                 "repo": "edge-connect",
                 "stars": 2620
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -622,7 +661,8 @@
                 "owner": "paarthneekhara",
                 "repo": "text-to-image",
                 "stars": 2163
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -637,7 +677,8 @@
                 "owner": "NVlabs",
                 "repo": "DG-Net",
                 "stars": 1298
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -652,7 +693,8 @@
                 "owner": "dyelax",
                 "repo": "Adversarial_Video_Generation",
                 "stars": 748
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -667,7 +709,8 @@
                 "owner": "LynnHo",
                 "repo": "AttGAN-Tensorflow",
                 "stars": 613
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -682,7 +725,8 @@
                 "owner": "facebookarchive",
                 "repo": "eyescream",
                 "stars": 596
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -697,7 +741,8 @@
                 "owner": "layumi",
                 "repo": "Person-reID_GAN",
                 "stars": 321
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -712,7 +757,8 @@
                 "owner": "EdwardSmith1884",
                 "repo": "3D-IWGAN",
                 "stars": 207
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -727,7 +773,8 @@
                 "owner": "Prinsphield",
                 "repo": "GeneGAN",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -742,7 +789,8 @@
                 "owner": "zalandoresearch",
                 "repo": "spatial_gan",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -757,7 +805,8 @@
                 "owner": "woozzu",
                 "repo": "tagan",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -772,7 +821,8 @@
                 "owner": "costapt",
                 "repo": "vess2ret",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -787,7 +837,8 @@
                 "owner": "Xiaoming-Yu",
                 "repo": "SingleGAN",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -802,7 +853,8 @@
                 "owner": "subeeshvasu",
                 "repo": "2018_subeesh_epsr_eccvw",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -817,7 +869,8 @@
                 "owner": "DegardinBruno",
                 "repo": "Kinetic-GAN",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -832,7 +885,8 @@
                 "owner": "christopher-beckham",
                 "repo": "gan-heightmaps",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -847,7 +901,8 @@
                 "owner": "Hao-HUST",
                 "repo": "G2LGAN",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             },
             {
               "node_type": "item",
@@ -862,7 +917,8 @@
                 "owner": "nschor",
                 "repo": "CompoNet",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             }
           ],
           "description": null,
@@ -884,7 +940,8 @@
                 "owner": "LukasMosser",
                 "repo": "PorousMediaGan",
                 "stars": 190
-              }
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
             }
           ],
           "description": null,
@@ -896,7 +953,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:25:57.972Z",
+    "last_updated": "2026-08-28T13:55:25.399Z",
     "original_repository_info": {
       "archived": false,
       "id": 87085729,

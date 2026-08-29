@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "starter from \"How to Train a GAN?\" at NIPS2016",
+            "homepage": null,
             "id": 76050275,
             "language": null,
+            "license": null,
             "last_commit": "2022-01-09T06:29:17Z",
+            "open_issues": 58,
             "owner": "soumith",
             "repo": "ganhacks",
-            "stars": 11616
+            "stars": 11616,
+            "topics": []
           },
           "first_seen": "2026-08-28T13:55:25.399Z"
         },
@@ -26,12 +31,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Material for the tutorial: \"Deep Diving into GANs: from theory to production\"",
+            "homepage": null,
             "id": 141707724,
             "language": "Jupyter Notebook",
+            "license": "MPL-2.0",
             "last_commit": "2023-03-24T22:56:53Z",
+            "open_issues": 1,
             "owner": "zurutech",
             "repo": "gans-from-theory-to-production",
-            "stars": 210
+            "stars": 210,
+            "topics": [
+              "deep-learning",
+              "euroscipy",
+              "gan",
+              "pycon",
+              "tensorflow",
+              "tensorflow-tutorials",
+              "tfgan",
+              "tutorial"
+            ]
           },
           "first_seen": "2026-08-28T13:55:25.399Z"
         }
@@ -48,12 +67,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.",
+            "homepage": "http://wiseodd.github.io",
             "id": 75829600,
             "language": "Python",
+            "license": "Unlicense",
             "last_commit": "2024-03-24T20:38:46Z",
+            "open_issues": 24,
             "owner": "wiseodd",
             "repo": "generative-models",
-            "stars": 7494
+            "stars": 7494,
+            "topics": [
+              "gan",
+              "generative-model",
+              "machine-learning",
+              "pytorch",
+              "rbm",
+              "restricted-boltzmann-machine",
+              "tensorflow",
+              "vae"
+            ]
           },
           "first_seen": "2026-08-28T13:55:25.399Z"
         },
@@ -64,12 +97,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An adversarial example library for constructing attacks, building defenses, and benchmarking both",
+            "homepage": null,
             "id": 68254498,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-04-10T13:26:10Z",
+            "open_issues": 46,
             "owner": "cleverhans-lab",
             "repo": "cleverhans",
-            "stars": 6450
+            "stars": 6450,
+            "topics": [
+              "benchmarking",
+              "machine-learning",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T13:55:25.399Z"
         },
@@ -80,12 +122,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of papers in 100 lines of code.",
+            "homepage": null,
             "id": 307222796,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T19:16:28Z",
+            "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2868
+            "stars": 2867,
+            "topics": [
+              "3d",
+              "aes",
+              "artificial-intelligence",
+              "deep-learning",
+              "diffusion-models",
+              "educational",
+              "gans",
+              "generative-model",
+              "implementation-of-research-paper",
+              "inverse-rendering",
+              "machine-learning",
+              "meta-learning",
+              "nerf",
+              "neural-radiance-fields",
+              "papers",
+              "python",
+              "pytorch",
+              "reinforcement-learning",
+              "research",
+              "rl"
+            ]
           },
           "first_seen": "2026-08-28T13:55:25.399Z"
         },
@@ -96,12 +164,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of papers in 100 lines of code.",
+            "homepage": null,
             "id": 307222796,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T19:16:28Z",
+            "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2868
+            "stars": 2867,
+            "topics": [
+              "3d",
+              "aes",
+              "artificial-intelligence",
+              "deep-learning",
+              "diffusion-models",
+              "educational",
+              "gans",
+              "generative-model",
+              "implementation-of-research-paper",
+              "inverse-rendering",
+              "machine-learning",
+              "meta-learning",
+              "nerf",
+              "neural-radiance-fields",
+              "papers",
+              "python",
+              "pytorch",
+              "reinforcement-learning",
+              "research",
+              "rl"
+            ]
           },
           "first_seen": "2026-08-28T13:55:25.399Z"
         },
@@ -112,12 +206,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of papers in 100 lines of code.",
+            "homepage": null,
             "id": 307222796,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T19:16:28Z",
+            "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2868
+            "stars": 2867,
+            "topics": [
+              "3d",
+              "aes",
+              "artificial-intelligence",
+              "deep-learning",
+              "diffusion-models",
+              "educational",
+              "gans",
+              "generative-model",
+              "implementation-of-research-paper",
+              "inverse-rendering",
+              "machine-learning",
+              "meta-learning",
+              "nerf",
+              "neural-radiance-fields",
+              "papers",
+              "python",
+              "pytorch",
+              "reinforcement-learning",
+              "research",
+              "rl"
+            ]
           },
           "first_seen": "2026-08-28T13:55:25.399Z"
         },
@@ -128,12 +248,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of papers in 100 lines of code.",
+            "homepage": null,
             "id": 307222796,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T19:16:28Z",
+            "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2868
+            "stars": 2867,
+            "topics": [
+              "3d",
+              "aes",
+              "artificial-intelligence",
+              "deep-learning",
+              "diffusion-models",
+              "educational",
+              "gans",
+              "generative-model",
+              "implementation-of-research-paper",
+              "inverse-rendering",
+              "machine-learning",
+              "meta-learning",
+              "nerf",
+              "neural-radiance-fields",
+              "papers",
+              "python",
+              "pytorch",
+              "reinforcement-learning",
+              "research",
+              "rl"
+            ]
           },
           "first_seen": "2026-08-28T13:55:25.399Z"
         },
@@ -144,12 +290,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of papers in 100 lines of code.",
+            "homepage": null,
             "id": 307222796,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T19:16:28Z",
+            "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2868
+            "stars": 2867,
+            "topics": [
+              "3d",
+              "aes",
+              "artificial-intelligence",
+              "deep-learning",
+              "diffusion-models",
+              "educational",
+              "gans",
+              "generative-model",
+              "implementation-of-research-paper",
+              "inverse-rendering",
+              "machine-learning",
+              "meta-learning",
+              "nerf",
+              "neural-radiance-fields",
+              "papers",
+              "python",
+              "pytorch",
+              "reinforcement-learning",
+              "research",
+              "rl"
+            ]
           },
           "first_seen": "2026-08-28T13:55:25.399Z"
         },
@@ -160,12 +332,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of papers in 100 lines of code.",
+            "homepage": null,
             "id": 307222796,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T19:16:28Z",
+            "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2868
+            "stars": 2867,
+            "topics": [
+              "3d",
+              "aes",
+              "artificial-intelligence",
+              "deep-learning",
+              "diffusion-models",
+              "educational",
+              "gans",
+              "generative-model",
+              "implementation-of-research-paper",
+              "inverse-rendering",
+              "machine-learning",
+              "meta-learning",
+              "nerf",
+              "neural-radiance-fields",
+              "papers",
+              "python",
+              "pytorch",
+              "reinforcement-learning",
+              "research",
+              "rl"
+            ]
           },
           "first_seen": "2026-08-28T13:55:25.399Z"
         },
@@ -176,12 +374,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A very simple generative adversarial network (GAN) in PyTorch",
+            "homepage": null,
             "id": 81621587,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-06-30T21:44:59Z",
+            "open_issues": 4,
             "owner": "devnag",
             "repo": "pytorch-generative-adversarial-networks",
-            "stars": 1540
+            "stars": 1540,
+            "topics": [
+              "deep-learning",
+              "gan",
+              "gans",
+              "machine-learning",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T13:55:25.399Z"
         }
@@ -200,12 +409,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.",
+                "homepage": "http://wiseodd.github.io",
                 "id": 75829600,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2024-03-24T20:38:46Z",
+                "open_issues": 24,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7494
+                "stars": 7494,
+                "topics": [
+                  "gan",
+                  "generative-model",
+                  "machine-learning",
+                  "pytorch",
+                  "rbm",
+                  "restricted-boltzmann-machine",
+                  "tensorflow",
+                  "vae"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -216,12 +439,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.",
+                "homepage": "http://wiseodd.github.io",
                 "id": 75829600,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2024-03-24T20:38:46Z",
+                "open_issues": 24,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7494
+                "stars": 7494,
+                "topics": [
+                  "gan",
+                  "generative-model",
+                  "machine-learning",
+                  "pytorch",
+                  "rbm",
+                  "restricted-boltzmann-machine",
+                  "tensorflow",
+                  "vae"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -232,12 +469,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.",
+                "homepage": "http://wiseodd.github.io",
                 "id": 75829600,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2024-03-24T20:38:46Z",
+                "open_issues": 24,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7494
+                "stars": 7494,
+                "topics": [
+                  "gan",
+                  "generative-model",
+                  "machine-learning",
+                  "pytorch",
+                  "rbm",
+                  "restricted-boltzmann-machine",
+                  "tensorflow",
+                  "vae"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -248,12 +499,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.",
+                "homepage": "http://wiseodd.github.io",
                 "id": 75829600,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2024-03-24T20:38:46Z",
+                "open_issues": 24,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7494
+                "stars": 7494,
+                "topics": [
+                  "gan",
+                  "generative-model",
+                  "machine-learning",
+                  "pytorch",
+                  "rbm",
+                  "restricted-boltzmann-machine",
+                  "tensorflow",
+                  "vae"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -264,12 +529,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.",
+                "homepage": "http://wiseodd.github.io",
                 "id": 75829600,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2024-03-24T20:38:46Z",
+                "open_issues": 24,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7494
+                "stars": 7494,
+                "topics": [
+                  "gan",
+                  "generative-model",
+                  "machine-learning",
+                  "pytorch",
+                  "rbm",
+                  "restricted-boltzmann-machine",
+                  "tensorflow",
+                  "vae"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -280,12 +559,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.",
+                "homepage": "http://wiseodd.github.io",
                 "id": 75829600,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2024-03-24T20:38:46Z",
+                "open_issues": 24,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7494
+                "stars": 7494,
+                "topics": [
+                  "gan",
+                  "generative-model",
+                  "machine-learning",
+                  "pytorch",
+                  "rbm",
+                  "restricted-boltzmann-machine",
+                  "tensorflow",
+                  "vae"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -296,12 +589,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.",
+                "homepage": "http://wiseodd.github.io",
                 "id": 75829600,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2024-03-24T20:38:46Z",
+                "open_issues": 24,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7494
+                "stars": 7494,
+                "topics": [
+                  "gan",
+                  "generative-model",
+                  "machine-learning",
+                  "pytorch",
+                  "rbm",
+                  "restricted-boltzmann-machine",
+                  "tensorflow",
+                  "vae"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -312,12 +619,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.",
+                "homepage": "http://wiseodd.github.io",
                 "id": 75829600,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2024-03-24T20:38:46Z",
+                "open_issues": 24,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7494
+                "stars": 7494,
+                "topics": [
+                  "gan",
+                  "generative-model",
+                  "machine-learning",
+                  "pytorch",
+                  "rbm",
+                  "restricted-boltzmann-machine",
+                  "tensorflow",
+                  "vae"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -328,12 +649,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.",
+                "homepage": "http://wiseodd.github.io",
                 "id": 75829600,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2024-03-24T20:38:46Z",
+                "open_issues": 24,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7494
+                "stars": 7494,
+                "topics": [
+                  "gan",
+                  "generative-model",
+                  "machine-learning",
+                  "pytorch",
+                  "rbm",
+                  "restricted-boltzmann-machine",
+                  "tensorflow",
+                  "vae"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -344,12 +679,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.",
+                "homepage": "http://wiseodd.github.io",
                 "id": 75829600,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2024-03-24T20:38:46Z",
+                "open_issues": 24,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7494
+                "stars": 7494,
+                "topics": [
+                  "gan",
+                  "generative-model",
+                  "machine-learning",
+                  "pytorch",
+                  "rbm",
+                  "restricted-boltzmann-machine",
+                  "tensorflow",
+                  "vae"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -360,12 +709,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.",
+                "homepage": "http://wiseodd.github.io",
                 "id": 75829600,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2024-03-24T20:38:46Z",
+                "open_issues": 24,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7494
+                "stars": 7494,
+                "topics": [
+                  "gan",
+                  "generative-model",
+                  "machine-learning",
+                  "pytorch",
+                  "rbm",
+                  "restricted-boltzmann-machine",
+                  "tensorflow",
+                  "vae"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -376,12 +739,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.",
+                "homepage": "http://wiseodd.github.io",
                 "id": 75829600,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2024-03-24T20:38:46Z",
+                "open_issues": 24,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7494
+                "stars": 7494,
+                "topics": [
+                  "gan",
+                  "generative-model",
+                  "machine-learning",
+                  "pytorch",
+                  "rbm",
+                  "restricted-boltzmann-machine",
+                  "tensorflow",
+                  "vae"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -392,12 +769,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.",
+                "homepage": "http://wiseodd.github.io",
                 "id": 75829600,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2024-03-24T20:38:46Z",
+                "open_issues": 24,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7494
+                "stars": 7494,
+                "topics": [
+                  "gan",
+                  "generative-model",
+                  "machine-learning",
+                  "pytorch",
+                  "rbm",
+                  "restricted-boltzmann-machine",
+                  "tensorflow",
+                  "vae"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -408,12 +799,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.",
+                "homepage": "http://wiseodd.github.io",
                 "id": 75829600,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2024-03-24T20:38:46Z",
+                "open_issues": 24,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7494
+                "stars": 7494,
+                "topics": [
+                  "gan",
+                  "generative-model",
+                  "machine-learning",
+                  "pytorch",
+                  "rbm",
+                  "restricted-boltzmann-machine",
+                  "tensorflow",
+                  "vae"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -424,12 +829,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.",
+                "homepage": "http://wiseodd.github.io",
                 "id": 75829600,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2024-03-24T20:38:46Z",
+                "open_issues": 24,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7494
+                "stars": 7494,
+                "topics": [
+                  "gan",
+                  "generative-model",
+                  "machine-learning",
+                  "pytorch",
+                  "rbm",
+                  "restricted-boltzmann-machine",
+                  "tensorflow",
+                  "vae"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -440,12 +859,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Progressive Growing of GANs for Improved Quality, Stability, and Variation",
+                "homepage": "http://research.nvidia.com/publication/2017-10_Progressive-Growing-of",
                 "id": 108524017,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-02-17T12:44:14Z",
+                "open_issues": 11,
                 "owner": "tkarras",
                 "repo": "progressive_growing_of_gans",
-                "stars": 6179
+                "stars": 6179,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -456,12 +880,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and hyperparameters for the paper \"Generative Adversarial Networks\"",
+                "homepage": null,
                 "id": 20651238,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2020-05-25T03:31:19Z",
+                "open_issues": 7,
                 "owner": "goodfeli",
                 "repo": "adversarial",
-                "stars": 4078
+                "stars": 4078,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -472,12 +901,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Convolutional Generative Adversarial Networks",
+                "homepage": null,
                 "id": 46723165,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-05-08T17:50:59Z",
+                "open_issues": 31,
                 "owner": "Newmu",
                 "repo": "dcgan_code",
-                "stars": 3527
+                "stars": 3527,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -488,12 +922,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 80399758,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2018-12-26T16:46:00Z",
+                "open_issues": 28,
                 "owner": "martinarjovsky",
                 "repo": "WassersteinGAN",
-                "stars": 3243
+                "stars": 3243,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -504,12 +943,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Code for the paper \"Improved Techniques for Training GANs\"",
+                "homepage": "https://arxiv.org/abs/1606.03498",
                 "id": 60708386,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-11-21T23:56:07Z",
+                "open_issues": 39,
                 "owner": "openai",
                 "repo": "improved-gan",
-                "stars": 2333
+                "stars": 2333,
+                "topics": [
+                  "paper"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -520,12 +966,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generative moment matching networks",
+                "homepage": null,
                 "id": 30542956,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-07-11T14:14:51Z",
+                "open_issues": 0,
                 "owner": "yujiali",
                 "repo": "gmmn",
-                "stars": 152
+                "stars": 152,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -536,12 +987,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enhancing GAN Performance Through Neural Architecture Search and Tensor Decomposition",
+                "homepage": "https://ieeexplore.ieee.org/document/10446488",
                 "id": 651666977,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-03T16:53:59Z",
+                "open_issues": 0,
                 "owner": "PrasannaPulakurthi",
                 "repo": "MMD-AdversarialNAS-GAN",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "generative-adversarial-network",
+                  "generative-ai",
+                  "maximum-mean-discrepancy",
+                  "neural-architecture-search",
+                  "tensor-decomposition"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -552,12 +1014,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "First GAN compression via NAS + Adaptive Tensor Decomposition",
+                "homepage": "https://ieeexplore.ieee.org/document/10732016",
                 "id": 761997430,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-23T06:57:49Z",
+                "open_issues": 0,
                 "owner": "PrasannaPulakurthi",
                 "repo": "MMD-PMish-NAS-GAN",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "compression",
+                  "gans",
+                  "generative-adversarial-network",
+                  "generative-ai",
+                  "maximum-mean-discrepancy",
+                  "nas",
+                  "neural-architecture-search",
+                  "tensor-decomposition"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             }
@@ -575,12 +1051,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Image-to-image translation with conditional adversarial nets",
+                "homepage": "https://phillipi.github.io/pix2pix/",
                 "id": 73968389,
                 "language": "Lua",
+                "license": "NOASSERTION",
                 "last_commit": "2021-06-06T12:09:47Z",
+                "open_issues": 92,
                 "owner": "phillipi",
                 "repo": "pix2pix",
-                "stars": 10652
+                "stars": 10652,
+                "topics": [
+                  "computer-graphics",
+                  "computer-vision",
+                  "dcgan",
+                  "deep-learning",
+                  "gan",
+                  "generative-adversarial-network",
+                  "image-generation",
+                  "image-manipulation",
+                  "image-to-image-translation",
+                  "pix2pix"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -591,12 +1083,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.",
+                "homepage": "http://wiseodd.github.io",
                 "id": 75829600,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2024-03-24T20:38:46Z",
+                "open_issues": 24,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7494
+                "stars": 7494,
+                "topics": [
+                  "gan",
+                  "generative-model",
+                  "machine-learning",
+                  "pytorch",
+                  "rbm",
+                  "restricted-boltzmann-machine",
+                  "tensorflow",
+                  "vae"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -607,12 +1113,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.",
+                "homepage": "http://wiseodd.github.io",
                 "id": 75829600,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2024-03-24T20:38:46Z",
+                "open_issues": 24,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7494
+                "stars": 7494,
+                "topics": [
+                  "gan",
+                  "generative-model",
+                  "machine-learning",
+                  "pytorch",
+                  "rbm",
+                  "restricted-boltzmann-machine",
+                  "tensorflow",
+                  "vae"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -623,12 +1143,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interactive Image Generation via Generative Adversarial Networks",
+                "homepage": null,
                 "id": 68788179,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-08-05T01:05:44Z",
+                "open_issues": 14,
                 "owner": "junyanz",
                 "repo": "iGAN",
-                "stars": 4006
+                "stars": 4006,
+                "topics": [
+                  "computer-graphics",
+                  "computer-vision",
+                  "dcgan",
+                  "deep-learning",
+                  "gan",
+                  "generative-adversarial-network",
+                  "image-manipulation",
+                  "pix2pix"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -639,12 +1173,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EdgeConnect: Structure Guided Image Inpainting using Edge Prediction, ICCV  2019 https://arxiv.org/abs/1901.00212 ",
+                "homepage": "http://openaccess.thecvf.com/content_ICCVW_2019/html/AIM/Nazeri_EdgeConnect_Structure_Guided_Image_Inpainting_using_Edge_Prediction_ICCVW_2019_paper.html",
                 "id": 161960205,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-02-03T16:03:43Z",
+                "open_issues": 108,
                 "owner": "knazeri",
                 "repo": "edge-connect",
-                "stars": 2620
+                "stars": 2620,
+                "topics": [
+                  "canny-edge-detection",
+                  "deep-learning",
+                  "edgeconnect",
+                  "gans",
+                  "generative-adversarial-network",
+                  "image-inpainting",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -655,12 +1202,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Text to image synthesis using thought vectors",
+                "homepage": null,
                 "id": 65850354,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-01-30T16:29:57Z",
+                "open_issues": 47,
                 "owner": "paarthneekhara",
                 "repo": "text-to-image",
-                "stars": 2163
+                "stars": 2163,
+                "topics": [
+                  "deep-learning",
+                  "generative-adversarial-network",
+                  "skip-thought-vectors",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -671,12 +1228,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":couple: Joint Discriminative and Generative Learning for Person Re-identification. CVPR'19 (Oral) :couple:",
+                "homepage": "https://www.zdzheng.xyz/publication/Joint-di2019",
                 "id": 194320424,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-07-09T10:24:47Z",
+                "open_issues": 45,
                 "owner": "NVlabs",
                 "repo": "DG-Net",
-                "stars": 1298
+                "stars": 1298,
+                "topics": [
+                  "apex",
+                  "cuhk-np",
+                  "dg-net",
+                  "dukemtmc-reid",
+                  "image-retrieval",
+                  "image-search",
+                  "market-1501",
+                  "msmt17",
+                  "open-reid",
+                  "person-reid",
+                  "person-reidentification",
+                  "pytorch",
+                  "re-identification"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -687,12 +1263,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A TensorFlow Implementation of \"Deep Multi-Scale Video Prediction Beyond Mean Square Error\" by Mathieu, Couprie & LeCun.",
+                "homepage": null,
                 "id": 65582754,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-10-23T19:38:17Z",
+                "open_issues": 24,
                 "owner": "dyelax",
                 "repo": "Adversarial_Video_Generation",
-                "stars": 748
+                "stars": 748,
+                "topics": [
+                  "adversarial-networks",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "gan",
+                  "generative-adversarial-network",
+                  "video-prediction-models"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -703,12 +1291,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TIP'19] AttGAN: Facial Attribute Editing by Only Changing What You Want",
+                "homepage": null,
                 "id": 132308267,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-02-21T01:36:12Z",
+                "open_issues": 0,
                 "owner": "LynnHo",
                 "repo": "AttGAN-Tensorflow",
-                "stars": 613
+                "stars": 613,
+                "topics": [
+                  "attgan",
+                  "face-attribute-manipulation",
+                  "face-attribute-transfer",
+                  "gan",
+                  "gans"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -719,12 +1318,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "natural image generation using ConvNets",
+                "homepage": null,
                 "id": 37670565,
                 "language": "Lua",
+                "license": "NOASSERTION",
                 "last_commit": "2017-10-16T15:20:57Z",
+                "open_issues": 3,
                 "owner": "facebookarchive",
                 "repo": "eyescream",
-                "stars": 596
+                "stars": 596,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -735,12 +1339,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ICCV2017 Unlabeled Samples Generated by GAN Improve the Person Re-identification Baseline in vitro",
+                "homepage": "https://arxiv.org/abs/1701.07717",
                 "id": 97428018,
                 "language": "Cuda",
+                "license": "MIT",
                 "last_commit": "2021-06-29T10:21:55Z",
+                "open_issues": 7,
                 "owner": "layumi",
                 "repo": "Person-reID_GAN",
-                "stars": 321
+                "stars": 321,
+                "topics": [
+                  "gan",
+                  "iccv2017",
+                  "image-retrieval",
+                  "matconvnet",
+                  "person-re-identification",
+                  "person-recognition",
+                  "person-reid",
+                  "person-reidentification",
+                  "re-id"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -751,12 +1370,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A repository  for the paper \"Improved Adversarial Systems for 3D Object Generation and Reconstruction\".",
+                "homepage": null,
                 "id": 98673300,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-11-13T15:01:35Z",
+                "open_issues": 4,
                 "owner": "EdwardSmith1884",
                 "repo": "3D-IWGAN",
-                "stars": 207
+                "stars": 207,
+                "topics": [
+                  "3d",
+                  "3d-iwgan",
+                  "gan",
+                  "generation",
+                  "paper",
+                  "reconstruction"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -767,12 +1398,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data",
+                "homepage": "https://arxiv.org/abs/1705.04932v1",
                 "id": 90262569,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2018-04-26T08:13:26Z",
+                "open_issues": 2,
                 "owner": "Prinsphield",
                 "repo": "GeneGAN",
-                "stars": 143
+                "stars": 143,
+                "topics": [
+                  "attributes-subspace",
+                  "celeba-dataset",
+                  "generative-adversarial-network",
+                  "image-interpolation",
+                  "image-manipulation"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -783,12 +1425,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spatial Generative Adversarial Networks",
+                "homepage": null,
                 "id": 75093198,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-09-17T07:40:37Z",
+                "open_issues": 1,
                 "owner": "zalandoresearch",
                 "repo": "spatial_gan",
-                "stars": 112
+                "stars": 112,
+                "topics": [
+                  "dcgan",
+                  "gan",
+                  "generative-adversarial-network",
+                  "lasagne",
+                  "machine-learning",
+                  "python",
+                  "theano"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -799,12 +1454,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An official PyTorch implementation of the paper \"Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language\", NeurIPS 2018",
+                "homepage": null,
                 "id": 158641670,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-08-05T01:27:53Z",
+                "open_issues": 6,
                 "owner": "woozzu",
                 "repo": "tagan",
-                "stars": 94
+                "stars": 94,
+                "topics": [
+                  "gan",
+                  "gans",
+                  "generative-adversarial-network",
+                  "manipulate-images",
+                  "natural-language",
+                  "neurips-2018",
+                  "nips-2018",
+                  "text-to-image"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -815,12 +1484,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Keras implementation of pix2pix code adapted to generate retinal images from vessel networks.",
+                "homepage": null,
                 "id": 80446439,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-04-10T14:47:05Z",
+                "open_issues": 17,
                 "owner": "costapt",
                 "repo": "vess2ret",
-                "stars": 94
+                "stars": 94,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -831,12 +1505,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SingleGAN: Image-to-Image Translation by a Single-Generator Network using Multiple Generative Adversarial Learning. ACCV 2018",
+                "homepage": null,
                 "id": 152577737,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-01-16T12:52:33Z",
+                "open_issues": 0,
                 "owner": "Xiaoming-Yu",
                 "repo": "SingleGAN",
-                "stars": 83
+                "stars": 83,
+                "topics": [
+                  "image-translation"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -847,12 +1528,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Project page of the paper 'Analyzing Perception-Distortion Tradeoff using Enhanced Perceptual Super-resolution Network' (ECCVW 2018) ",
+                "homepage": null,
                 "id": 148771657,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-07-14T08:12:06Z",
+                "open_issues": 0,
                 "owner": "subeeshvasu",
                 "repo": "2018_subeesh_epsr_eccvw",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "deep-learning",
+                  "epsr",
+                  "pirm-sr",
+                  "pytorch",
+                  "super-resolution"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -863,12 +1555,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the paper \"Generative Adversarial Graph Convolutional Networks for Human Action Synthesis\", WACV 2022",
+                "homepage": null,
                 "id": 348355290,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-09-26T11:02:19Z",
+                "open_issues": 6,
                 "owner": "DegardinBruno",
                 "repo": "Kinetic-GAN",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "gan",
+                  "gcn",
+                  "human-behavior-understanding",
+                  "pytorch",
+                  "synthetic-data",
+                  "wacv2022"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -879,12 +1583,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Procedural terrain generation for video games has been traditionally been done with smartly designed but handcrafted algorithms that generate heightmaps. We propose a first step toward the learning and synthesis of these using recent advances in deep generative modelling with openly available satellite imagery from NASA.",
+                "homepage": "https://arxiv.org/abs/1707.03383",
                 "id": 92185388,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2017-07-18T16:16:12Z",
+                "open_issues": 1,
                 "owner": "christopher-beckham",
                 "repo": "gan-heightmaps",
-                "stars": 76
+                "stars": 76,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -895,12 +1604,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Global-to-Local Generative Model for 3D Shapes",
+                "homepage": "http://vcc.szu.edu.cn/research/2018/G2L",
                 "id": 159916203,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-09-25T08:24:14Z",
+                "open_issues": 3,
                 "owner": "Hao-HUST",
                 "repo": "G2LGAN",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -911,12 +1625,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the paper \"CompoNet: Learning to Generate the Unseen by Part Synthesis and Composition\"",
+                "homepage": null,
                 "id": 205586469,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-10-27T11:42:27Z",
+                "open_issues": 2,
                 "owner": "nschor",
                 "repo": "CompoNet",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             }
@@ -934,12 +1653,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reconstruction of three-dimensional porous media using generative adversarial neural networks",
+                "homepage": null,
                 "id": 79212796,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2019-08-02T08:27:08Z",
+                "open_issues": 4,
                 "owner": "LukasMosser",
                 "repo": "PorousMediaGan",
-                "stars": 190
+                "stars": 190,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "generative-adversarial-network",
+                  "image-reconstruction",
+                  "machine-learning",
+                  "porous-media"
+                ]
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             }
@@ -953,15 +1684,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:55:25.399Z",
+    "last_updated": "2026-08-29T04:18:36.500Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of papers on Generative Adversarial (Neural) Networks",
+      "homepage": null,
       "id": 87085729,
       "language": null,
+      "license": null,
       "last_commit": "2025-08-24T07:57:51Z",
+      "open_issues": 1,
       "owner": "nightrome",
       "repo": "really-awesome-gan",
-      "stars": 3773
+      "stars": 3773,
+      "topics": []
     },
     "original_repository_sha": "19b5b1af1a7c045e3f2ccc9e914fdfc326318af8",
     "enhanced_repository": "enhansome/really-enhansome-gan",

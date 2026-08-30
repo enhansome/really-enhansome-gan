@@ -131,7 +131,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2867,
+            "stars": 2868,
             "topics": [
               "3d",
               "aes",
@@ -173,7 +173,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2867,
+            "stars": 2868,
             "topics": [
               "3d",
               "aes",
@@ -215,7 +215,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2867,
+            "stars": 2868,
             "topics": [
               "3d",
               "aes",
@@ -257,7 +257,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2867,
+            "stars": 2868,
             "topics": [
               "3d",
               "aes",
@@ -299,7 +299,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2867,
+            "stars": 2868,
             "topics": [
               "3d",
               "aes",
@@ -341,7 +341,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2867,
+            "stars": 2868,
             "topics": [
               "3d",
               "aes",
@@ -1550,6 +1550,27 @@
             },
             {
               "node_type": "item",
+              "title": "A step towards procedural terrain generation with GANs [arXiv]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Procedural terrain generation for video games has been traditionally been done with smartly designed but handcrafted algorithms that generate heightmaps. We propose a first step toward the learning and synthesis of these using recent advances in deep generative modelling with openly available satellite imagery from NASA.",
+                "homepage": "https://arxiv.org/abs/1707.03383",
+                "id": 92185388,
+                "language": "Jupyter Notebook",
+                "license": null,
+                "last_commit": "2017-07-18T16:16:12Z",
+                "open_issues": 1,
+                "owner": "christopher-beckham",
+                "repo": "gan-heightmaps",
+                "stars": 77,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T13:55:25.399Z"
+            },
+            {
+              "node_type": "item",
               "title": "Generative Adversarial Graph Convolutional Networks for Human Action Synthesis [arXiv]",
               "description": "[Code]",
               "children": [],
@@ -1573,27 +1594,6 @@
                   "synthetic-data",
                   "wacv2022"
                 ]
-              },
-              "first_seen": "2026-08-28T13:55:25.399Z"
-            },
-            {
-              "node_type": "item",
-              "title": "A step towards procedural terrain generation with GANs [arXiv]",
-              "description": "[Code]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Procedural terrain generation for video games has been traditionally been done with smartly designed but handcrafted algorithms that generate heightmaps. We propose a first step toward the learning and synthesis of these using recent advances in deep generative modelling with openly available satellite imagery from NASA.",
-                "homepage": "https://arxiv.org/abs/1707.03383",
-                "id": 92185388,
-                "language": "Jupyter Notebook",
-                "license": null,
-                "last_commit": "2017-07-18T16:16:12Z",
-                "open_issues": 1,
-                "owner": "christopher-beckham",
-                "repo": "gan-heightmaps",
-                "stars": 76,
-                "topics": []
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
             },
@@ -1684,7 +1684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T08:42:53.169Z",
+    "last_updated": "2026-08-30T07:59:49.949Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers on Generative Adversarial (Neural) Networks",

@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "soumith",
             "repo": "ganhacks",
-            "stars": 11617,
+            "stars": 11616,
             "topics": []
           },
           "first_seen": "2026-08-28T13:55:25.399Z"
@@ -76,7 +76,7 @@
             "open_issues": 30,
             "owner": "wiseodd",
             "repo": "generative-models",
-            "stars": 7490,
+            "stars": 7489,
             "topics": [
               "gan",
               "generative-model",
@@ -106,7 +106,7 @@
             "open_issues": 46,
             "owner": "cleverhans-lab",
             "repo": "cleverhans",
-            "stars": 6450,
+            "stars": 6451,
             "topics": [
               "benchmarking",
               "machine-learning",
@@ -418,7 +418,7 @@
                 "open_issues": 30,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7490,
+                "stars": 7489,
                 "topics": [
                   "gan",
                   "generative-model",
@@ -448,7 +448,7 @@
                 "open_issues": 30,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7490,
+                "stars": 7489,
                 "topics": [
                   "gan",
                   "generative-model",
@@ -478,7 +478,7 @@
                 "open_issues": 30,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7490,
+                "stars": 7489,
                 "topics": [
                   "gan",
                   "generative-model",
@@ -508,7 +508,7 @@
                 "open_issues": 30,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7490,
+                "stars": 7489,
                 "topics": [
                   "gan",
                   "generative-model",
@@ -538,7 +538,7 @@
                 "open_issues": 30,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7490,
+                "stars": 7489,
                 "topics": [
                   "gan",
                   "generative-model",
@@ -568,7 +568,7 @@
                 "open_issues": 30,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7490,
+                "stars": 7489,
                 "topics": [
                   "gan",
                   "generative-model",
@@ -598,7 +598,7 @@
                 "open_issues": 30,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7490,
+                "stars": 7489,
                 "topics": [
                   "gan",
                   "generative-model",
@@ -628,7 +628,7 @@
                 "open_issues": 30,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7490,
+                "stars": 7489,
                 "topics": [
                   "gan",
                   "generative-model",
@@ -658,7 +658,7 @@
                 "open_issues": 30,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7490,
+                "stars": 7489,
                 "topics": [
                   "gan",
                   "generative-model",
@@ -688,7 +688,7 @@
                 "open_issues": 30,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7490,
+                "stars": 7489,
                 "topics": [
                   "gan",
                   "generative-model",
@@ -718,7 +718,7 @@
                 "open_issues": 30,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7490,
+                "stars": 7489,
                 "topics": [
                   "gan",
                   "generative-model",
@@ -748,7 +748,7 @@
                 "open_issues": 30,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7490,
+                "stars": 7489,
                 "topics": [
                   "gan",
                   "generative-model",
@@ -778,7 +778,7 @@
                 "open_issues": 30,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7490,
+                "stars": 7489,
                 "topics": [
                   "gan",
                   "generative-model",
@@ -808,7 +808,7 @@
                 "open_issues": 30,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7490,
+                "stars": 7489,
                 "topics": [
                   "gan",
                   "generative-model",
@@ -838,7 +838,7 @@
                 "open_issues": 30,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7490,
+                "stars": 7489,
                 "topics": [
                   "gan",
                   "generative-model",
@@ -1060,7 +1060,7 @@
                 "open_issues": 92,
                 "owner": "phillipi",
                 "repo": "pix2pix",
-                "stars": 10654,
+                "stars": 10655,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1092,7 +1092,7 @@
                 "open_issues": 30,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7490,
+                "stars": 7489,
                 "topics": [
                   "gan",
                   "generative-model",
@@ -1122,7 +1122,7 @@
                 "open_issues": 30,
                 "owner": "wiseodd",
                 "repo": "generative-models",
-                "stars": 7490,
+                "stars": 7489,
                 "topics": [
                   "gan",
                   "generative-model",
@@ -1684,7 +1684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T07:06:48.794Z",
+    "last_updated": "2026-09-08T07:00:11.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers on Generative Adversarial (Neural) Networks",

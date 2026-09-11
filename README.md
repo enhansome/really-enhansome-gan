@@ -91,9 +91,9 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 * Least Squares Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1611.04076) [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,490 | 🐛 30 | 🌐 Python | 📅 2024-03-24
 * MAGAN: Margin Adaptation for Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1704.03817) [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,490 | 🐛 30 | 🌐 Python | 📅 2024-03-24
 * Mode Regularized Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1612.02136) [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,490 | 🐛 30 | 🌐 Python | 📅 2024-03-24
-* Progressive Growing of GANs for Improved Quality, Stability, and Variation [\[arXiv\]](https://arxiv.org/abs/1710.10196) [\[Code\]](https://github.com/tkarras/progressive_growing_of_gans) ⭐ 6,178 | 🐛 11 | 🌐 Python | 📅 2022-02-17
-* Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1406.2661) [\[Code\]](https://github.com/goodfeli/adversarial) ⭐ 4,083 | 🐛 7 | 🌐 Python | 📅 2020-05-25 [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,490 | 🐛 30 | 🌐 Python | 📅 2024-03-24
-* Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1511.06434) [\[Code\]](https://github.com/Newmu/dcgan_code) ⭐ 3,529 | 🐛 31 | 🌐 Python | 📅 2019-05-08 [\[Code\]](https://github.com/pytorch/examples/tree/master/dcgan) ⭐ 24,036 | 🐛 253 | 🌐 Python | 📅 2025-09-01 [\[Code\]](https://github.com/carpedm20/DCGAN-tensorflow) ⭐ 7,178 | 🐛 188 | 🌐 JavaScript | 📅 2021-01-06 [\[Code\]](https://github.com/soumith/dcgan.torch) ⭐ 1,488 | 🐛 41 | 🌐 Lua | 📅 2021-08-02 [\[Code\]](https://github.com/jacobgil/keras-dcgan) ⭐ 977 | 🐛 25 | 🌐 Python | 📅 2017-07-21
+* Progressive Growing of GANs for Improved Quality, Stability, and Variation [\[arXiv\]](https://arxiv.org/abs/1710.10196) [\[Code\]](https://github.com/tkarras/progressive_growing_of_gans) ⭐ 6,177 | 🐛 11 | 🌐 Python | 📅 2022-02-17
+* Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1406.2661) [\[Code\]](https://github.com/goodfeli/adversarial) ⭐ 4,084 | 🐛 7 | 🌐 Python | 📅 2020-05-25 [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,490 | 🐛 30 | 🌐 Python | 📅 2024-03-24
+* Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1511.06434) [\[Code\]](https://github.com/Newmu/dcgan_code) ⭐ 3,529 | 🐛 31 | 🌐 Python | 📅 2019-05-08 [\[Code\]](https://github.com/pytorch/examples/tree/master/dcgan) ⭐ 24,039 | 🐛 253 | 🌐 Python | 📅 2025-09-01 [\[Code\]](https://github.com/carpedm20/DCGAN-tensorflow) ⭐ 7,178 | 🐛 188 | 🌐 JavaScript | 📅 2021-01-06 [\[Code\]](https://github.com/soumith/dcgan.torch) ⭐ 1,488 | 🐛 41 | 🌐 Lua | 📅 2021-08-02 [\[Code\]](https://github.com/jacobgil/keras-dcgan) ⭐ 977 | 🐛 25 | 🌐 Python | 📅 2017-07-21
 * Wasserstein GAN [\[arXiv\]](https://arxiv.org/abs/1701.07875) [\[Code\]](https://github.com/martinarjovsky/WassersteinGAN) ⭐ 3,244 | 🐛 28 | 🌐 Python | 📅 2018-12-26 [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,490 | 🐛 30 | 🌐 Python | 📅 2024-03-24
 * Improved Techniques for Training GANs [\[arXiv\]](https://arxiv.org/abs/1606.03498) [\[Code\]](https://github.com/openai/improved-gan) ⚠️ Archived
 * Generative Moment Matching Networks [\[arXiv\]](https://arxiv.org/abs/1502.02761) [\[Code\]](https://github.com/yujiali/gmmn) ⭐ 152 | 🐛 0 | 🌐 Python | 📅 2016-07-11
@@ -369,4 +369,4 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

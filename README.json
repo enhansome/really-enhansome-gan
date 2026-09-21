@@ -131,7 +131,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2887,
+            "stars": 2889,
             "topics": [
               "3d",
               "aes",
@@ -173,7 +173,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2887,
+            "stars": 2889,
             "topics": [
               "3d",
               "aes",
@@ -215,7 +215,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2887,
+            "stars": 2889,
             "topics": [
               "3d",
               "aes",
@@ -257,7 +257,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2887,
+            "stars": 2889,
             "topics": [
               "3d",
               "aes",
@@ -299,7 +299,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2887,
+            "stars": 2889,
             "topics": [
               "3d",
               "aes",
@@ -341,7 +341,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2887,
+            "stars": 2889,
             "topics": [
               "3d",
               "aes",
@@ -889,7 +889,7 @@
                 "open_issues": 7,
                 "owner": "goodfeli",
                 "repo": "adversarial",
-                "stars": 4084,
+                "stars": 4083,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
@@ -1684,7 +1684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T07:32:01.586Z",
+    "last_updated": "2026-09-21T07:43:28.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers on Generative Adversarial (Neural) Networks",

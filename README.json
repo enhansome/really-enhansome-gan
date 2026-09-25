@@ -1300,7 +1300,7 @@
                 "open_issues": 0,
                 "owner": "LynnHo",
                 "repo": "AttGAN-Tensorflow",
-                "stars": 613,
+                "stars": 614,
                 "topics": [
                   "attgan",
                   "face-attribute-manipulation",
@@ -1684,7 +1684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T07:21:00.176Z",
+    "last_updated": "2026-09-25T07:15:35.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers on Generative Adversarial (Neural) Networks",

@@ -106,7 +106,7 @@
             "open_issues": 46,
             "owner": "cleverhans-lab",
             "repo": "cleverhans",
-            "stars": 6452,
+            "stars": 6454,
             "topics": [
               "benchmarking",
               "machine-learning",
@@ -889,7 +889,7 @@
                 "open_issues": 7,
                 "owner": "goodfeli",
                 "repo": "adversarial",
-                "stars": 4084,
+                "stars": 4085,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
@@ -952,7 +952,7 @@
                 "open_issues": 39,
                 "owner": "openai",
                 "repo": "improved-gan",
-                "stars": 2332,
+                "stars": 2333,
                 "topics": [
                   "paper"
                 ]
@@ -1060,7 +1060,7 @@
                 "open_issues": 92,
                 "owner": "phillipi",
                 "repo": "pix2pix",
-                "stars": 10662,
+                "stars": 10661,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1152,7 +1152,7 @@
                 "open_issues": 14,
                 "owner": "junyanz",
                 "repo": "iGAN",
-                "stars": 4010,
+                "stars": 4011,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1211,7 +1211,7 @@
                 "open_issues": 47,
                 "owner": "paarthneekhara",
                 "repo": "text-to-image",
-                "stars": 2164,
+                "stars": 2165,
                 "topics": [
                   "deep-learning",
                   "generative-adversarial-network",
@@ -1272,7 +1272,7 @@
                 "open_issues": 24,
                 "owner": "dyelax",
                 "repo": "Adversarial_Video_Generation",
-                "stars": 748,
+                "stars": 749,
                 "topics": [
                   "adversarial-networks",
                   "deep-learning",
@@ -1348,7 +1348,7 @@
                 "open_issues": 7,
                 "owner": "layumi",
                 "repo": "Person-reID_GAN",
-                "stars": 322,
+                "stars": 323,
                 "topics": [
                   "gan",
                   "iccv2017",
@@ -1684,7 +1684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T08:00:00.634Z",
+    "last_updated": "2026-09-30T08:08:25.994Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers on Generative Adversarial (Neural) Networks",
@@ -1696,7 +1696,7 @@
       "open_issues": 1,
       "owner": "nightrome",
       "repo": "really-awesome-gan",
-      "stars": 3773,
+      "stars": 3774,
       "topics": []
     },
     "original_repository_sha": "19b5b1af1a7c045e3f2ccc9e914fdfc326318af8",

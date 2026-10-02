@@ -106,7 +106,7 @@
             "open_issues": 46,
             "owner": "cleverhans-lab",
             "repo": "cleverhans",
-            "stars": 6454,
+            "stars": 6455,
             "topics": [
               "benchmarking",
               "machine-learning",
@@ -931,7 +931,7 @@
                 "open_issues": 28,
                 "owner": "martinarjovsky",
                 "repo": "WassersteinGAN",
-                "stars": 3246,
+                "stars": 3247,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
@@ -1060,7 +1060,7 @@
                 "open_issues": 92,
                 "owner": "phillipi",
                 "repo": "pix2pix",
-                "stars": 10661,
+                "stars": 10660,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1684,7 +1684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T08:27:49.899Z",
+    "last_updated": "2026-10-02T08:03:16.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers on Generative Adversarial (Neural) Networks",

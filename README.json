@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "How to Train a GAN? Tips and tricks to make GANs work [Blog]",
-          "description": null,
+          "description": "soumith/ganhacks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "soumith",
             "repo": "ganhacks",
-            "stars": 11619,
+            "stars": 11618,
             "topics": []
           },
           "first_seen": "2026-08-28T13:55:25.399Z"
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "Deep Diving into GANs: from theory to production (EuroScipy 2018) [GitHub]",
-          "description": null,
+          "description": "zurutech/gans-from-theory-to-production",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -63,7 +63,7 @@
         {
           "node_type": "item",
           "title": "Generative Models: Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow [Code]",
-          "description": null,
+          "description": "wiseodd/generative-models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -118,7 +118,7 @@
         {
           "node_type": "item",
           "title": "Reproduction of the GANs paper (MNIST) in 100 lines of PyTorch code [Blog]",
-          "description": "[Code]",
+          "description": "MaximeVandegar/Papers-in-100-Lines-of-Code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -160,7 +160,7 @@
         {
           "node_type": "item",
           "title": "Reproduction of results from the paper Conditional Generative Adversarial Nets in 100 lines of PyTorch code [Code]",
-          "description": null,
+          "description": "MaximeVandegar/Papers-in-100-Lines-of-Code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -202,7 +202,7 @@
         {
           "node_type": "item",
           "title": "Reproduction of results from the paper Improved Techniques for Training GANs in 100 lines of PyTorch code [Code]",
-          "description": null,
+          "description": "MaximeVandegar/Papers-in-100-Lines-of-Code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -244,7 +244,7 @@
         {
           "node_type": "item",
           "title": "Reproduction of results from the LSGAN paper in 100 lines of PyTorch code [Code]",
-          "description": null,
+          "description": "MaximeVandegar/Papers-in-100-Lines-of-Code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -286,7 +286,7 @@
         {
           "node_type": "item",
           "title": "Reproduction of results from the WGAN paper in 100 lines of PyTorch code [Code]",
-          "description": null,
+          "description": "MaximeVandegar/Papers-in-100-Lines-of-Code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -328,7 +328,7 @@
         {
           "node_type": "item",
           "title": "Reproduction of results from the pix2pix paper in 100 lines of PyTorch code [Code]",
-          "description": null,
+          "description": "MaximeVandegar/Papers-in-100-Lines-of-Code",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -370,7 +370,7 @@
         {
           "node_type": "item",
           "title": "Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch) [Blog]",
-          "description": "[Code]",
+          "description": "devnag/pytorch-generative-adversarial-networks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -383,7 +383,7 @@
             "open_issues": 4,
             "owner": "devnag",
             "repo": "pytorch-generative-adversarial-networks",
-            "stars": 1541,
+            "stars": 1543,
             "topics": [
               "deep-learning",
               "gan",
@@ -405,7 +405,7 @@
             {
               "node_type": "item",
               "title": "Adversarial Feature Learning [arXiv]",
-              "description": "[Code]",
+              "description": "wiseodd/generative-models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -435,7 +435,7 @@
             {
               "node_type": "item",
               "title": "Adversarially Learned Inference [arXiv]",
-              "description": "[Code]",
+              "description": "wiseodd/generative-models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -495,7 +495,7 @@
             {
               "node_type": "item",
               "title": "Boundary-Seeking Generative Adversarial Networks [arXiv]",
-              "description": "[Code]",
+              "description": "wiseodd/generative-models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -525,7 +525,7 @@
             {
               "node_type": "item",
               "title": "Conditional Generative Adversarial Nets [arXiv]",
-              "description": "[Code]",
+              "description": "wiseodd/generative-models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -555,7 +555,7 @@
             {
               "node_type": "item",
               "title": "Coupled Generative Adversarial Networks [arXiv]",
-              "description": "[Code]",
+              "description": "wiseodd/generative-models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -585,7 +585,7 @@
             {
               "node_type": "item",
               "title": "Energy-based Generative Adversarial Network [arXiv]",
-              "description": "[Code]",
+              "description": "wiseodd/generative-models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -615,7 +615,7 @@
             {
               "node_type": "item",
               "title": "f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization [arXiv]",
-              "description": "[Code]",
+              "description": "wiseodd/generative-models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -645,7 +645,7 @@
             {
               "node_type": "item",
               "title": "Generative Adversarial Parallelization [arXiv]",
-              "description": "[Code]",
+              "description": "wiseodd/generative-models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -675,7 +675,7 @@
             {
               "node_type": "item",
               "title": "Improved Training of Wasserstein GANs [arXiv]",
-              "description": "[Code]",
+              "description": "wiseodd/generative-models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -705,7 +705,7 @@
             {
               "node_type": "item",
               "title": "InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets [arXiv]",
-              "description": "[Code]",
+              "description": "wiseodd/generative-models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -735,7 +735,7 @@
             {
               "node_type": "item",
               "title": "Learning to Discover Cross-Domain Relations with Generative Adversarial Networks [arXiv]",
-              "description": "[Code]",
+              "description": "wiseodd/generative-models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -765,7 +765,7 @@
             {
               "node_type": "item",
               "title": "Least Squares Generative Adversarial Networks [arXiv]",
-              "description": "[Code]",
+              "description": "wiseodd/generative-models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -795,7 +795,7 @@
             {
               "node_type": "item",
               "title": "MAGAN: Margin Adaptation for Generative Adversarial Networks [arXiv]",
-              "description": "[Code]",
+              "description": "wiseodd/generative-models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -825,7 +825,7 @@
             {
               "node_type": "item",
               "title": "Mode Regularized Generative Adversarial Networks [arXiv]",
-              "description": "[Code]",
+              "description": "wiseodd/generative-models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -855,7 +855,7 @@
             {
               "node_type": "item",
               "title": "Progressive Growing of GANs for Improved Quality, Stability, and Variation [arXiv]",
-              "description": "[Code]",
+              "description": "tkarras/progressive_growing_of_gans",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -939,7 +939,7 @@
             {
               "node_type": "item",
               "title": "Improved Techniques for Training GANs [arXiv]",
-              "description": "[Code]",
+              "description": "openai/improved-gan",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -962,7 +962,7 @@
             {
               "node_type": "item",
               "title": "Generative Moment Matching Networks [arXiv]",
-              "description": "[Code]",
+              "description": "yujiali/gmmn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1047,7 +1047,7 @@
             {
               "node_type": "item",
               "title": "Image-to-Image Translation with Conditional Adversarial Networks [arXiv]",
-              "description": "[Code]",
+              "description": "phillipi/pix2pix",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1060,7 +1060,7 @@
                 "open_issues": 92,
                 "owner": "phillipi",
                 "repo": "pix2pix",
-                "stars": 10660,
+                "stars": 10658,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1109,7 +1109,7 @@
             {
               "node_type": "item",
               "title": "DualGAN: Unsupervised Dual Learning for Image-to-Image Translation [arXiv]",
-              "description": "[Code]",
+              "description": "wiseodd/generative-models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1169,7 +1169,7 @@
             {
               "node_type": "item",
               "title": "EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning [arXiv]",
-              "description": "[Code]",
+              "description": "knazeri/edge-connect",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1198,7 +1198,7 @@
             {
               "node_type": "item",
               "title": "Generative Adversarial Text to Image Synthesis [arXiv]",
-              "description": "[Code]",
+              "description": "paarthneekhara/text-to-image",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1259,7 +1259,7 @@
             {
               "node_type": "item",
               "title": "Deep multi-scale video prediction beyond mean square error [arXiv]",
-              "description": "[Code]",
+              "description": "dyelax/Adversarial_Video_Generation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1287,7 +1287,7 @@
             {
               "node_type": "item",
               "title": "Arbitrary Facial Attribute Editing: Only Change What You Want [arXiv]",
-              "description": "[Code]",
+              "description": "LynnHo/AttGAN-Tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1335,7 +1335,7 @@
             {
               "node_type": "item",
               "title": "Unlabeled Samples Generated by GAN Improve the Person Re-identification Baseline in vitro [arXiv]",
-              "description": "[Code]",
+              "description": "layumi/Person-reID_GAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1366,7 +1366,7 @@
             {
               "node_type": "item",
               "title": "Improved Adversarial Systems for 3D Object Generation and Reconstruction [arXiv]",
-              "description": "[Code]",
+              "description": "EdwardSmith1884/3D-IWGAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1394,7 +1394,7 @@
             {
               "node_type": "item",
               "title": "GeneGAN: Learning Object Transfiguration and Attribute Subspace from Unpaired Data [arXiv]",
-              "description": "[Code]",
+              "description": "Prinsphield/GeneGAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1421,7 +1421,7 @@
             {
               "node_type": "item",
               "title": "Texture Synthesis with Spatial Generative Adversarial Networks [arXiv]",
-              "description": "[Code]",
+              "description": "zalandoresearch/spatial_gan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1450,7 +1450,7 @@
             {
               "node_type": "item",
               "title": "Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language [arXiv]",
-              "description": "[Code]",
+              "description": "woozzu/tagan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1501,7 +1501,7 @@
             {
               "node_type": "item",
               "title": "SingleGAN: Image-to-Image Translation by a Single-Generator Network using Multiple Generative Adversarial Learning [arXiv]",
-              "description": "[Code]",
+              "description": "Xiaoming-Yu/SingleGAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1524,7 +1524,7 @@
             {
               "node_type": "item",
               "title": "Analyzing Perception-Distortion Tradeoff using Enhanced Perceptual Super-resolution Network [arXiv]",
-              "description": "[Code]",
+              "description": "subeeshvasu/2018_subeesh_epsr_eccvw",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1551,7 +1551,7 @@
             {
               "node_type": "item",
               "title": "A step towards procedural terrain generation with GANs [arXiv]",
-              "description": "[Code]",
+              "description": "christopher-beckham/gan-heightmaps",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1572,7 +1572,7 @@
             {
               "node_type": "item",
               "title": "Generative Adversarial Graph Convolutional Networks for Human Action Synthesis [arXiv]",
-              "description": "[Code]",
+              "description": "DegardinBruno/Kinetic-GAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1600,7 +1600,7 @@
             {
               "node_type": "item",
               "title": "Global-to-Local Generative Model for 3D Shapes [Project]",
-              "description": "[Code]",
+              "description": "Hao-HUST/G2LGAN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1621,7 +1621,7 @@
             {
               "node_type": "item",
               "title": "CompoNet: Learning to Generate the Unseen by Part Synthesis and Composition [arXiv]",
-              "description": "[Code]",
+              "description": "nschor/CompoNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1649,7 +1649,7 @@
             {
               "node_type": "item",
               "title": "Reconstruction of three-dimensional porous media using generative adversarial neural networks [arXiv]",
-              "description": "[Code]",
+              "description": "LukasMosser/PorousMediaGan",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1684,7 +1684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T08:03:16.282Z",
+    "last_updated": "2026-10-03T05:14:57.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers on Generative Adversarial (Neural) Networks",

@@ -131,7 +131,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2900,
+            "stars": 2901,
             "topics": [
               "3d",
               "aes",
@@ -173,7 +173,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2900,
+            "stars": 2901,
             "topics": [
               "3d",
               "aes",
@@ -215,7 +215,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2900,
+            "stars": 2901,
             "topics": [
               "3d",
               "aes",
@@ -257,7 +257,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2900,
+            "stars": 2901,
             "topics": [
               "3d",
               "aes",
@@ -299,7 +299,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2900,
+            "stars": 2901,
             "topics": [
               "3d",
               "aes",
@@ -341,7 +341,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2900,
+            "stars": 2901,
             "topics": [
               "3d",
               "aes",
@@ -1662,7 +1662,7 @@
                 "open_issues": 4,
                 "owner": "LukasMosser",
                 "repo": "PorousMediaGan",
-                "stars": 191,
+                "stars": 190,
                 "topics": [
                   "computer-vision",
                   "deep-learning",
@@ -1684,7 +1684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T08:15:39.169Z",
+    "last_updated": "2026-10-08T08:31:45.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers on Generative Adversarial (Neural) Networks",

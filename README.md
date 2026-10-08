@@ -60,12 +60,12 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 
 * Generative Models: Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,490 | 🐛 30 | 🌐 Python | 📅 2024-03-24
 * Cleverhans: A library for benchmarking vulnerability to adversarial examples [\[Code\]](https://github.com/openai/cleverhans) ⭐ 6,455 | 🐛 46 | 🌐 Jupyter Notebook | 📅 2024-04-10 [\[Blog\]](http://cleverhans.io/)
-* Reproduction of the GANs paper (MNIST) in 100 lines of PyTorch code  [\[Blog\]](https://papers-100-lines.medium.com/generative-adversarial-networks-in-100-lines-of-code-516f09d1790a) [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Generative_Adversarial_Networks) ⭐ 2,900 | 🐛 0 | 🌐 Python | 📅 2026-09-30
-* Reproduction of results from the paper *Conditional Generative Adversarial Nets* in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Conditional_Generative_Adversarial_Nets) ⭐ 2,900 | 🐛 0 | 🌐 Python | 📅 2026-09-30
-* Reproduction of results from the paper *Improved Techniques for Training GANs* in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Improved_Techniques_for_Training_GANs) ⭐ 2,900 | 🐛 0 | 🌐 Python | 📅 2026-09-30
-* Reproduction of results from the *LSGAN* paper in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Least_Squares_Generative_Adversarial_Networks) ⭐ 2,900 | 🐛 0 | 🌐 Python | 📅 2026-09-30
-* Reproduction of results from the *WGAN* paper in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Wasserstein_GAN) ⭐ 2,900 | 🐛 0 | 🌐 Python | 📅 2026-09-30
-* Reproduction of results from the *pix2pix* paper in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Image_to_Image_Translation_with_Conditional_Adversarial_Nets) ⭐ 2,900 | 🐛 0 | 🌐 Python | 📅 2026-09-30
+* Reproduction of the GANs paper (MNIST) in 100 lines of PyTorch code  [\[Blog\]](https://papers-100-lines.medium.com/generative-adversarial-networks-in-100-lines-of-code-516f09d1790a) [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Generative_Adversarial_Networks) ⭐ 2,901 | 🐛 0 | 🌐 Python | 📅 2026-09-30
+* Reproduction of results from the paper *Conditional Generative Adversarial Nets* in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Conditional_Generative_Adversarial_Nets) ⭐ 2,901 | 🐛 0 | 🌐 Python | 📅 2026-09-30
+* Reproduction of results from the paper *Improved Techniques for Training GANs* in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Improved_Techniques_for_Training_GANs) ⭐ 2,901 | 🐛 0 | 🌐 Python | 📅 2026-09-30
+* Reproduction of results from the *LSGAN* paper in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Least_Squares_Generative_Adversarial_Networks) ⭐ 2,901 | 🐛 0 | 🌐 Python | 📅 2026-09-30
+* Reproduction of results from the *WGAN* paper in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Wasserstein_GAN) ⭐ 2,901 | 🐛 0 | 🌐 Python | 📅 2026-09-30
+* Reproduction of results from the *pix2pix* paper in 100 lines of PyTorch code  [\[Code\]](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code/tree/main/Image_to_Image_Translation_with_Conditional_Adversarial_Nets) ⭐ 2,901 | 🐛 0 | 🌐 Python | 📅 2026-09-30
 * Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch) [\[Blog\]](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f) [\[Code\]](https://github.com/devnag/pytorch-generative-adversarial-networks) ⭐ 1,543 | 🐛 4 | 🌐 Python | 📅 2021-06-30
 
 # Papers
@@ -344,7 +344,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 
 ## Applied Other
 
-* Reconstruction of three-dimensional porous media using generative adversarial neural networks [\[arXiv\]](https://arxiv.org/abs/1704.03225) [\[Code\]](https://github.com/LukasMosser/PorousMediaGan) ⭐ 191 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2019-08-02
+* Reconstruction of three-dimensional porous media using generative adversarial neural networks [\[arXiv\]](https://arxiv.org/abs/1704.03225) [\[Code\]](https://github.com/LukasMosser/PorousMediaGan) ⭐ 190 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2019-08-02
 * Adversarial Generation of Natural Language [\[arXiv\]](https://arxiv.org/abs/1705.10929)
 * Adversarial Ranking for Language Generation [\[arXiv\]](https://arxiv.org/abs/1705.11001)
 * Adversarial Training Methods for Semi-Supervised Text Classification [\[arXiv\]](https://arxiv.org/abs/1605.07725) [\[Paper\]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_12.pdf)
@@ -369,4 +369,4 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._

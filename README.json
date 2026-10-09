@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "soumith",
             "repo": "ganhacks",
-            "stars": 11618,
+            "stars": 11617,
             "topics": []
           },
           "first_seen": "2026-08-28T13:55:25.399Z"
@@ -131,7 +131,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2901,
+            "stars": 2902,
             "topics": [
               "3d",
               "aes",
@@ -173,7 +173,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2901,
+            "stars": 2902,
             "topics": [
               "3d",
               "aes",
@@ -215,7 +215,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2901,
+            "stars": 2902,
             "topics": [
               "3d",
               "aes",
@@ -257,7 +257,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2901,
+            "stars": 2902,
             "topics": [
               "3d",
               "aes",
@@ -299,7 +299,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2901,
+            "stars": 2902,
             "topics": [
               "3d",
               "aes",
@@ -341,7 +341,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2901,
+            "stars": 2902,
             "topics": [
               "3d",
               "aes",
@@ -383,7 +383,7 @@
             "open_issues": 4,
             "owner": "devnag",
             "repo": "pytorch-generative-adversarial-networks",
-            "stars": 1543,
+            "stars": 1544,
             "topics": [
               "deep-learning",
               "gan",
@@ -889,7 +889,7 @@
                 "open_issues": 7,
                 "owner": "goodfeli",
                 "repo": "adversarial",
-                "stars": 4086,
+                "stars": 4087,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
@@ -1060,7 +1060,7 @@
                 "open_issues": 92,
                 "owner": "phillipi",
                 "repo": "pix2pix",
-                "stars": 10659,
+                "stars": 10660,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1684,7 +1684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T08:31:45.595Z",
+    "last_updated": "2026-10-09T08:35:24.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers on Generative Adversarial (Neural) Networks",
@@ -1696,7 +1696,7 @@
       "open_issues": 1,
       "owner": "nightrome",
       "repo": "really-awesome-gan",
-      "stars": 3774,
+      "stars": 3772,
       "topics": []
     },
     "original_repository_sha": "19b5b1af1a7c045e3f2ccc9e914fdfc326318af8",

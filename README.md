@@ -35,7 +35,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 
 # Tutorials & Workshops & Blogs
 
-* How to Train a GAN? Tips and tricks to make GANs work [\[Blog\]](https://github.com/soumith/ganhacks) ⭐ 11,616 | 🐛 58 | 📅 2022-01-09
+* How to Train a GAN? Tips and tricks to make GANs work [\[Blog\]](https://github.com/soumith/ganhacks) ⭐ 11,618 | 🐛 58 | 📅 2022-01-09
 * Deep Diving into GANs: from theory to production (EuroScipy 2018) [\[GitHub\]](https://github.com/zurutech/gans-from-theory-to-production) ⭐ 210 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-03-24
 * Columbia Advanced Machine Learning Seminar
   * New Progress on GAN Theory and Practice [\[Blog\]](https://casmls.github.io/general/2017/04/13/gan.html)
@@ -93,8 +93,8 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 * Mode Regularized Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1612.02136) [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,492 | 🐛 30 | 🌐 Python | 📅 2024-03-24
 * Progressive Growing of GANs for Improved Quality, Stability, and Variation [\[arXiv\]](https://arxiv.org/abs/1710.10196) [\[Code\]](https://github.com/tkarras/progressive_growing_of_gans) ⭐ 6,176 | 🐛 11 | 🌐 Python | 📅 2022-02-17
 * Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1406.2661) [\[Code\]](https://github.com/goodfeli/adversarial) ⭐ 4,087 | 🐛 7 | 🌐 Python | 📅 2020-05-25 [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,492 | 🐛 30 | 🌐 Python | 📅 2024-03-24
-* Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1511.06434) [\[Code\]](https://github.com/Newmu/dcgan_code) ⭐ 3,528 | 🐛 31 | 🌐 Python | 📅 2019-05-08 [\[Code\]](https://github.com/pytorch/examples/tree/master/dcgan) ⭐ 24,064 | 🐛 254 | 🌐 Python | 📅 2025-09-01 [\[Code\]](https://github.com/carpedm20/DCGAN-tensorflow) ⭐ 7,178 | 🐛 188 | 🌐 JavaScript | 📅 2021-01-06 [\[Code\]](https://github.com/soumith/dcgan.torch) ⭐ 1,487 | 🐛 41 | 🌐 Lua | 📅 2021-08-02 [\[Code\]](https://github.com/jacobgil/keras-dcgan) ⭐ 977 | 🐛 25 | 🌐 Python | 📅 2017-07-21
-* Wasserstein GAN [\[arXiv\]](https://arxiv.org/abs/1701.07875) [\[Code\]](https://github.com/martinarjovsky/WassersteinGAN) ⭐ 3,247 | 🐛 28 | 🌐 Python | 📅 2018-12-26 [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,492 | 🐛 30 | 🌐 Python | 📅 2024-03-24
+* Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1511.06434) [\[Code\]](https://github.com/Newmu/dcgan_code) ⭐ 3,528 | 🐛 31 | 🌐 Python | 📅 2019-05-08 [\[Code\]](https://github.com/pytorch/examples/tree/master/dcgan) ⭐ 24,071 | 🐛 254 | 🌐 Python | 📅 2025-09-01 [\[Code\]](https://github.com/carpedm20/DCGAN-tensorflow) ⭐ 7,178 | 🐛 188 | 🌐 JavaScript | 📅 2021-01-06 [\[Code\]](https://github.com/soumith/dcgan.torch) ⭐ 1,487 | 🐛 41 | 🌐 Lua | 📅 2021-08-02 [\[Code\]](https://github.com/jacobgil/keras-dcgan) ⭐ 977 | 🐛 25 | 🌐 Python | 📅 2017-07-21
+* Wasserstein GAN [\[arXiv\]](https://arxiv.org/abs/1701.07875) [\[Code\]](https://github.com/martinarjovsky/WassersteinGAN) ⭐ 3,248 | 🐛 28 | 🌐 Python | 📅 2018-12-26 [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,492 | 🐛 30 | 🌐 Python | 📅 2024-03-24
 * Improved Techniques for Training GANs [\[arXiv\]](https://arxiv.org/abs/1606.03498) [\[Code\]](https://github.com/openai/improved-gan) ⚠️ Archived
 * Generative Moment Matching Networks [\[arXiv\]](https://arxiv.org/abs/1502.02761) [\[Code\]](https://github.com/yujiali/gmmn) ⭐ 152 | 🐛 0 | 🌐 Python | 📅 2016-07-11
 * Enhancing GAN Performance Through Neural Architecture Search and Tensor Decomposition [\[Paper\]](https://ieeexplore.ieee.org/document/10446488) [\[PDF\]](https://prasannapulakurthi.github.io/papers/PDFs/2024_ICASSP_GANs-Tensor-Decomposition.pdf) [\[Code\]](https://github.com/PrasannaPulakurthi/MMD-AdversarialNAS-GAN) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-08-03
@@ -186,7 +186,7 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 * Conditional Image Synthesis with Auxiliary Classifier GANs [\[Paper\]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_7.pdf) [\[arXiv\]](https://arxiv.org/abs/1610.09585) [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,492 | 🐛 30 | 🌐 Python | 📅 2024-03-24
 * DualGAN: Unsupervised Dual Learning for Image-to-Image Translation [\[arXiv\]](https://arxiv.org/abs/1704.02510) [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,492 | 🐛 30 | 🌐 Python | 📅 2024-03-24
 * Generative Visual Manipulation on the Natural Image Manifold [\[Project\]](http://www.eecs.berkeley.edu/~junyanz/projects/gvm/) [\[Youtube\]](https://youtu.be/9c4z6YsBGQ0) [\[Paper\]](https://arxiv.org/abs/1609.03552) [\[Code\]](https://github.com/junyanz/iGAN) ⭐ 4,011 | 🐛 14 | 🌐 Python | 📅 2020-08-05
-* EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning [\[arXiv\]](https://arxiv.org/abs/1901.00212) [\[Code\]](https://github.com/knazeri/edge-connect) ⭐ 2,621 | 🐛 106 | 🌐 Python | 📅 2024-02-03
+* EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning [\[arXiv\]](https://arxiv.org/abs/1901.00212) [\[Code\]](https://github.com/knazeri/edge-connect) ⭐ 2,622 | 🐛 106 | 🌐 Python | 📅 2024-02-03
 * Generative Adversarial Text to Image Synthesis [\[arXiv\]](https://arxiv.org/abs/1605.05396) [\[Code\]](https://github.com/paarthneekhara/text-to-image) ⭐ 2,166 | 🐛 47 | 🌐 Python | 📅 2018-01-30
 * Joint Discriminative and Generative Learning for Person Re-identification [\[Project\]](http://zdzheng.xyz/DG-Net/) [\[Paper\]](https://arxiv.org/abs/1904.07223) [\[YouTube\]](https://www.youtube.com/watch?v=ubCrEAIpQs4) [\[Bilibili\]](https://www.bilibili.com/video/av51439240) [\[Poster\]](http://zdzheng.xyz/images/DGNet_poster.pdf) [\[Code\]](https://github.com/NVlabs/DG-Net) ⭐ 1,299 | 🐛 45 | 🌐 Python | 📅 2023-07-09
 * Deep multi-scale video prediction beyond mean square error [\[arXiv\]](https://arxiv.org/abs/1511.05440) [\[Code\]](https://github.com/dyelax/Adversarial_Video_Generation) ⭐ 749 | 🐛 24 | 🌐 Python | 📅 2021-10-23
@@ -369,4 +369,4 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._

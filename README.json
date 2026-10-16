@@ -106,7 +106,7 @@
             "open_issues": 46,
             "owner": "cleverhans-lab",
             "repo": "cleverhans",
-            "stars": 6457,
+            "stars": 6458,
             "topics": [
               "benchmarking",
               "machine-learning",
@@ -131,7 +131,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2904,
+            "stars": 2905,
             "topics": [
               "3d",
               "aes",
@@ -173,7 +173,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2904,
+            "stars": 2905,
             "topics": [
               "3d",
               "aes",
@@ -215,7 +215,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2904,
+            "stars": 2905,
             "topics": [
               "3d",
               "aes",
@@ -257,7 +257,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2904,
+            "stars": 2905,
             "topics": [
               "3d",
               "aes",
@@ -299,7 +299,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2904,
+            "stars": 2905,
             "topics": [
               "3d",
               "aes",
@@ -341,7 +341,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2904,
+            "stars": 2905,
             "topics": [
               "3d",
               "aes",
@@ -1060,7 +1060,7 @@
                 "open_issues": 92,
                 "owner": "phillipi",
                 "repo": "pix2pix",
-                "stars": 10660,
+                "stars": 10661,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1152,7 +1152,7 @@
                 "open_issues": 14,
                 "owner": "junyanz",
                 "repo": "iGAN",
-                "stars": 4011,
+                "stars": 4012,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1237,7 +1237,7 @@
                 "open_issues": 45,
                 "owner": "NVlabs",
                 "repo": "DG-Net",
-                "stars": 1299,
+                "stars": 1300,
                 "topics": [
                   "apex",
                   "cuhk-np",
@@ -1272,7 +1272,7 @@
                 "open_issues": 24,
                 "owner": "dyelax",
                 "repo": "Adversarial_Video_Generation",
-                "stars": 749,
+                "stars": 750,
                 "topics": [
                   "adversarial-networks",
                   "deep-learning",
@@ -1684,7 +1684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T07:05:39.677Z",
+    "last_updated": "2026-10-16T06:48:40.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers on Generative Adversarial (Neural) Networks",

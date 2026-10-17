@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "soumith",
             "repo": "ganhacks",
-            "stars": 11618,
+            "stars": 11617,
             "topics": []
           },
           "first_seen": "2026-08-28T13:55:25.399Z"
@@ -106,7 +106,7 @@
             "open_issues": 46,
             "owner": "cleverhans-lab",
             "repo": "cleverhans",
-            "stars": 6458,
+            "stars": 6457,
             "topics": [
               "benchmarking",
               "machine-learning",
@@ -131,7 +131,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2905,
+            "stars": 2906,
             "topics": [
               "3d",
               "aes",
@@ -173,7 +173,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2905,
+            "stars": 2906,
             "topics": [
               "3d",
               "aes",
@@ -215,7 +215,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2905,
+            "stars": 2906,
             "topics": [
               "3d",
               "aes",
@@ -257,7 +257,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2905,
+            "stars": 2906,
             "topics": [
               "3d",
               "aes",
@@ -299,7 +299,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2905,
+            "stars": 2906,
             "topics": [
               "3d",
               "aes",
@@ -341,7 +341,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2905,
+            "stars": 2906,
             "topics": [
               "3d",
               "aes",
@@ -1015,11 +1015,11 @@
               "repo_info": {
                 "archived": false,
                 "description": "First GAN compression via NAS + Adaptive Tensor Decomposition",
-                "homepage": "https://ieeexplore.ieee.org/document/10732016",
+                "homepage": "https://prasannapulakurthi.github.io/MMD-PMish-NAS-GAN/",
                 "id": 761997430,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2025-08-23T06:57:49Z",
+                "last_commit": "2026-10-16T23:07:42Z",
                 "open_issues": 0,
                 "owner": "PrasannaPulakurthi",
                 "repo": "MMD-PMish-NAS-GAN",
@@ -1684,7 +1684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T06:48:40.477Z",
+    "last_updated": "2026-10-17T06:41:15.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers on Generative Adversarial (Neural) Networks",

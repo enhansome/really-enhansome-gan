@@ -952,7 +952,7 @@
                 "open_issues": 39,
                 "owner": "openai",
                 "repo": "improved-gan",
-                "stars": 2333,
+                "stars": 2334,
                 "topics": [
                   "paper"
                 ]
@@ -1182,7 +1182,7 @@
                 "open_issues": 106,
                 "owner": "knazeri",
                 "repo": "edge-connect",
-                "stars": 2622,
+                "stars": 2623,
                 "topics": [
                   "canny-edge-detection",
                   "deep-learning",
@@ -1211,7 +1211,7 @@
                 "open_issues": 47,
                 "owner": "paarthneekhara",
                 "repo": "text-to-image",
-                "stars": 2166,
+                "stars": 2165,
                 "topics": [
                   "deep-learning",
                   "generative-adversarial-network",
@@ -1684,7 +1684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T07:06:04.339Z",
+    "last_updated": "2026-10-24T06:57:13.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers on Generative Adversarial (Neural) Networks",

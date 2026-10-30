@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "soumith",
             "repo": "ganhacks",
-            "stars": 11612,
+            "stars": 11613,
             "topics": []
           },
           "first_seen": "2026-08-28T13:55:25.399Z"
@@ -106,7 +106,7 @@
             "open_issues": 46,
             "owner": "cleverhans-lab",
             "repo": "cleverhans",
-            "stars": 6458,
+            "stars": 6460,
             "topics": [
               "benchmarking",
               "machine-learning",
@@ -131,7 +131,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2909,
+            "stars": 2910,
             "topics": [
               "3d",
               "aes",
@@ -173,7 +173,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2909,
+            "stars": 2910,
             "topics": [
               "3d",
               "aes",
@@ -215,7 +215,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2909,
+            "stars": 2910,
             "topics": [
               "3d",
               "aes",
@@ -257,7 +257,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2909,
+            "stars": 2910,
             "topics": [
               "3d",
               "aes",
@@ -299,7 +299,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2909,
+            "stars": 2910,
             "topics": [
               "3d",
               "aes",
@@ -341,7 +341,7 @@
             "open_issues": 0,
             "owner": "MaximeVandegar",
             "repo": "Papers-in-100-Lines-of-Code",
-            "stars": 2909,
+            "stars": 2910,
             "topics": [
               "3d",
               "aes",
@@ -889,7 +889,7 @@
                 "open_issues": 7,
                 "owner": "goodfeli",
                 "repo": "adversarial",
-                "stars": 4089,
+                "stars": 4090,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
@@ -910,7 +910,7 @@
                 "open_issues": 31,
                 "owner": "Newmu",
                 "repo": "dcgan_code",
-                "stars": 3527,
+                "stars": 3528,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
@@ -952,7 +952,7 @@
                 "open_issues": 39,
                 "owner": "openai",
                 "repo": "improved-gan",
-                "stars": 2334,
+                "stars": 2335,
                 "topics": [
                   "paper"
                 ]
@@ -1152,7 +1152,7 @@
                 "open_issues": 14,
                 "owner": "junyanz",
                 "repo": "iGAN",
-                "stars": 4012,
+                "stars": 4013,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1237,7 +1237,7 @@
                 "open_issues": 45,
                 "owner": "NVlabs",
                 "repo": "DG-Net",
-                "stars": 1300,
+                "stars": 1301,
                 "topics": [
                   "apex",
                   "cuhk-np",
@@ -1684,7 +1684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T08:09:23.435Z",
+    "last_updated": "2026-10-30T08:12:43.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers on Generative Adversarial (Neural) Networks",
@@ -1696,7 +1696,7 @@
       "open_issues": 1,
       "owner": "nightrome",
       "repo": "really-awesome-gan",
-      "stars": 3767,
+      "stars": 3768,
       "topics": []
     },
     "original_repository_sha": "19b5b1af1a7c045e3f2ccc9e914fdfc326318af8",

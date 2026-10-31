@@ -182,11 +182,11 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 
 ## Applied Vision
 
-* Image-to-Image Translation with Conditional Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1611.07004) [\[Code\]](https://github.com/phillipi/pix2pix) ⭐ 10,658 | 🐛 93 | 🌐 Lua | 📅 2021-06-06
+* Image-to-Image Translation with Conditional Adversarial Networks [\[arXiv\]](https://arxiv.org/abs/1611.07004) [\[Code\]](https://github.com/phillipi/pix2pix) ⭐ 10,659 | 🐛 93 | 🌐 Lua | 📅 2021-06-06
 * Conditional Image Synthesis with Auxiliary Classifier GANs [\[Paper\]](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_7.pdf) [\[arXiv\]](https://arxiv.org/abs/1610.09585) [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,493 | 🐛 30 | 🌐 Python | 📅 2024-03-24
 * DualGAN: Unsupervised Dual Learning for Image-to-Image Translation [\[arXiv\]](https://arxiv.org/abs/1704.02510) [\[Code\]](https://github.com/wiseodd/generative-models) ⭐ 7,493 | 🐛 30 | 🌐 Python | 📅 2024-03-24
 * Generative Visual Manipulation on the Natural Image Manifold [\[Project\]](http://www.eecs.berkeley.edu/~junyanz/projects/gvm/) [\[Youtube\]](https://youtu.be/9c4z6YsBGQ0) [\[Paper\]](https://arxiv.org/abs/1609.03552) [\[Code\]](https://github.com/junyanz/iGAN) ⭐ 4,013 | 🐛 14 | 🌐 Python | 📅 2020-08-05
-* EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning [\[arXiv\]](https://arxiv.org/abs/1901.00212) [\[Code\]](https://github.com/knazeri/edge-connect) ⭐ 2,623 | 🐛 106 | 🌐 Python | 📅 2024-02-03
+* EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning [\[arXiv\]](https://arxiv.org/abs/1901.00212) [\[Code\]](https://github.com/knazeri/edge-connect) ⭐ 2,624 | 🐛 106 | 🌐 Python | 📅 2024-02-03
 * Generative Adversarial Text to Image Synthesis [\[arXiv\]](https://arxiv.org/abs/1605.05396) [\[Code\]](https://github.com/paarthneekhara/text-to-image) ⭐ 2,165 | 🐛 47 | 🌐 Python | 📅 2018-01-30
 * Joint Discriminative and Generative Learning for Person Re-identification [\[Project\]](http://zdzheng.xyz/DG-Net/) [\[Paper\]](https://arxiv.org/abs/1904.07223) [\[YouTube\]](https://www.youtube.com/watch?v=ubCrEAIpQs4) [\[Bilibili\]](https://www.bilibili.com/video/av51439240) [\[Poster\]](http://zdzheng.xyz/images/DGNet_poster.pdf) [\[Code\]](https://github.com/NVlabs/DG-Net) ⭐ 1,301 | 🐛 45 | 🌐 Python | 📅 2023-07-09
 * Deep multi-scale video prediction beyond mean square error [\[arXiv\]](https://arxiv.org/abs/1511.05440) [\[Code\]](https://github.com/dyelax/Adversarial_Video_Generation) ⭐ 749 | 🐛 24 | 🌐 Python | 📅 2021-10-23
@@ -369,4 +369,4 @@ To complement or correct it, please contact me at holger-at-it-caesar.com or vis
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._

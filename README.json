@@ -1060,7 +1060,7 @@
                 "open_issues": 93,
                 "owner": "phillipi",
                 "repo": "pix2pix",
-                "stars": 10658,
+                "stars": 10659,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1182,7 +1182,7 @@
                 "open_issues": 106,
                 "owner": "knazeri",
                 "repo": "edge-connect",
-                "stars": 2623,
+                "stars": 2624,
                 "topics": [
                   "canny-edge-detection",
                   "deep-learning",
@@ -1684,7 +1684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T08:12:43.288Z",
+    "last_updated": "2026-10-31T08:05:52.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers on Generative Adversarial (Neural) Networks",
@@ -1696,7 +1696,7 @@
       "open_issues": 1,
       "owner": "nightrome",
       "repo": "really-awesome-gan",
-      "stars": 3768,
+      "stars": 3769,
       "topics": []
     },
     "original_repository_sha": "19b5b1af1a7c045e3f2ccc9e914fdfc326318af8",

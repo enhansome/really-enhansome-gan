@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "soumith",
             "repo": "ganhacks",
-            "stars": 11613,
+            "stars": 11614,
             "topics": []
           },
           "first_seen": "2026-08-28T13:55:25.399Z"
@@ -106,7 +106,7 @@
             "open_issues": 46,
             "owner": "cleverhans-lab",
             "repo": "cleverhans",
-            "stars": 6460,
+            "stars": 6461,
             "topics": [
               "benchmarking",
               "machine-learning",
@@ -889,7 +889,7 @@
                 "open_issues": 7,
                 "owner": "goodfeli",
                 "repo": "adversarial",
-                "stars": 4090,
+                "stars": 4092,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
@@ -910,7 +910,7 @@
                 "open_issues": 31,
                 "owner": "Newmu",
                 "repo": "dcgan_code",
-                "stars": 3529,
+                "stars": 3528,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
@@ -1684,7 +1684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T08:51:14.076Z",
+    "last_updated": "2026-11-02T08:58:53.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers on Generative Adversarial (Neural) Networks",

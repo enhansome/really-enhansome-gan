@@ -1272,7 +1272,7 @@
                 "open_issues": 24,
                 "owner": "dyelax",
                 "repo": "Adversarial_Video_Generation",
-                "stars": 749,
+                "stars": 748,
                 "topics": [
                   "adversarial-networks",
                   "deep-learning",
@@ -1684,7 +1684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T09:05:59.736Z",
+    "last_updated": "2026-11-06T08:59:28.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers on Generative Adversarial (Neural) Networks",

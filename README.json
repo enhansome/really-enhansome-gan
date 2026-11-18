@@ -19,7 +19,7 @@
             "open_issues": 58,
             "owner": "soumith",
             "repo": "ganhacks",
-            "stars": 11609,
+            "stars": 11610,
             "topics": []
           },
           "first_seen": "2026-08-28T13:55:25.399Z"
@@ -910,7 +910,7 @@
                 "open_issues": 31,
                 "owner": "Newmu",
                 "repo": "dcgan_code",
-                "stars": 3525,
+                "stars": 3524,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
@@ -1060,7 +1060,7 @@
                 "open_issues": 93,
                 "owner": "phillipi",
                 "repo": "pix2pix",
-                "stars": 10662,
+                "stars": 10664,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1684,7 +1684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T10:19:30.836Z",
+    "last_updated": "2026-11-18T09:50:25.312Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers on Generative Adversarial (Neural) Networks",

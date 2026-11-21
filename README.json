@@ -889,7 +889,7 @@
                 "open_issues": 7,
                 "owner": "goodfeli",
                 "repo": "adversarial",
-                "stars": 4090,
+                "stars": 4091,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
@@ -931,7 +931,7 @@
                 "open_issues": 28,
                 "owner": "martinarjovsky",
                 "repo": "WassersteinGAN",
-                "stars": 3246,
+                "stars": 3247,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:55:25.399Z"
@@ -1684,7 +1684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T09:46:42.273Z",
+    "last_updated": "2026-11-21T09:18:49.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers on Generative Adversarial (Neural) Networks",

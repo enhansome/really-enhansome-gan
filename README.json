@@ -1211,7 +1211,7 @@
                 "open_issues": 47,
                 "owner": "paarthneekhara",
                 "repo": "text-to-image",
-                "stars": 2164,
+                "stars": 2163,
                 "topics": [
                   "deep-learning",
                   "generative-adversarial-network",
@@ -1684,7 +1684,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T09:18:49.673Z",
+    "last_updated": "2026-11-22T09:27:50.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of papers on Generative Adversarial (Neural) Networks",
